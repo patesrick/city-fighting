@@ -1,0 +1,2406 @@
+﻿,Ensemble,Femmes,Hommes,code_insee,Ville
+Ensemble,"14,1","13,2","14,7",01053,bourg-en-bresse
+Cadres*,"24,7","22,1","26,3",01053,bourg-en-bresse
+Professions intermédiaires,"15,8","14,9","16,7",01053,bourg-en-bresse
+Employés,"11,6","11,5","11,8",01053,bourg-en-bresse
+Ouvriers,"11,8","10,3","12,2",01053,bourg-en-bresse
+Ensemble,"13,6","12,6","14,2",01283,oyonnax
+Cadres*,"24,5","22,1","25,8",01283,oyonnax
+Professions intermédiaires,"15,9","14,3","16,8",01283,oyonnax
+Employés,"11,8","11,8","11,8",01283,oyonnax
+Ouvriers,"11,7","11,0","12,1",01283,oyonnax
+Ensemble,"12,9","12,3","13,2",02408,laon
+Cadres*,"23,5","21,6","24,4",02408,laon
+Professions intermédiaires,"14,8","14,0","15,3",02408,laon
+Employés,"11,0","10,9","11,2",02408,laon
+Ouvriers,"11,3","10,2","11,5",02408,laon
+Ensemble,"13,9","13,0","14,4",02691,saint-quentin
+Cadres*,"25,4","22,8","26,8",02691,saint-quentin
+Professions intermédiaires,"15,7","14,8","16,4",02691,saint-quentin
+Employés,"11,1","11,1","11,2",02691,saint-quentin
+Ouvriers,"11,8","11,0","12,0",02691,saint-quentin
+Ensemble,"14,0","12,9","14,6",02722,soissons
+Cadres*,"26,5","22,8","28,2",02722,soissons
+Professions intermédiaires,"15,6","15,0","16,0",02722,soissons
+Employés,"11,4","11,3","11,4",02722,soissons
+Ouvriers,"11,8","10,2","12,1",02722,soissons
+Ensemble,"13,4","12,4","14,2",03185,montlucon
+Cadres*,"24,6","20,9","26,6",03185,montlucon
+Professions intermédiaires,"15,2","14,4","15,8",03185,montlucon
+Employés,"11,0","10,8","11,2",03185,montlucon
+Ouvriers,"11,7","10,2","12,0",03185,montlucon
+Ensemble,"14,3","13,5","14,9",03310,vichy
+Cadres*,"25,9","23,6","27,3",03310,vichy
+Professions intermédiaires,"15,6","15,1","16,1",03310,vichy
+Employés,"11,2","11,2","11,1",03310,vichy
+Ouvriers,"11,7","11,1","11,9",03310,vichy
+Ensemble,"15,2","13,8","16,1",04112,manosque
+Cadres*,"25,1","22,5","26,5",04112,manosque
+Professions intermédiaires,"15,9","14,6","16,9",04112,manosque
+Employés,"11,3","11,3","11,3",04112,manosque
+Ouvriers,"12,2","10,4","12,6",04112,manosque
+Ensemble,"13,9","13,1","14,5",05061,gap
+Cadres*,"22,4","20,6","23,4",05061,gap
+Professions intermédiaires,"15,4","14,7","16,2",05061,gap
+Employés,"11,6","11,5","11,9",05061,gap
+Ouvriers,"11,8","9,6","12,1",05061,gap
+Ensemble,"18,1","16,2","19,5",06004,antibes
+Cadres*,"27,1","24,6","28,3",06004,antibes
+Professions intermédiaires,"16,6","15,9","17,3",06004,antibes
+Employés,"12,5","12,4","12,8",06004,antibes
+Ouvriers,"12,5","11,3","12,7",06004,antibes
+Ensemble,"16,4","15,1","17,4",06027,cagnes-sur-mer
+Cadres*,"26,3","24,0","27,7",06027,cagnes-sur-mer
+Professions intermédiaires,"17,0","16,1","17,9",06027,cagnes-sur-mer
+Employés,"12,4","12,2","12,8",06027,cagnes-sur-mer
+Ouvriers,"12,6","11,1","12,9",06027,cagnes-sur-mer
+Ensemble,"15,7","14,6","16,6",06029,cannes
+Cadres*,"28,6","26,2","30,0",06029,cannes
+Professions intermédiaires,"16,5","15,8","17,2",06029,cannes
+Employés,"12,3","12,1","12,6",06029,cannes
+Ouvriers,"12,2","10,7","12,5",06029,cannes
+Ensemble,"15,6","14,5","16,6",06030,le-cannet
+Cadres*,"26,5","23,8","28,2",06030,le-cannet
+Professions intermédiaires,"16,7","16,1","17,3",06030,le-cannet
+Employés,"12,4","12,3","12,8",06030,le-cannet
+Ouvriers,"12,5","10,6","12,9",06030,le-cannet
+Ensemble,"16,8","15,2","18,1",06069,grasse
+Cadres*,"29,8","25,8","32,1",06069,grasse
+Professions intermédiaires,"16,6","16,1","17,2",06069,grasse
+Employés,"12,5","12,4","12,8",06069,grasse
+Ouvriers,"12,7","11,3","13,1",06069,grasse
+Ensemble,"16,8","15,1","18,1",06079,mandelieu-la-napoule
+Cadres*,"28,2","24,7","30,3",06079,mandelieu-la-napoule
+Professions intermédiaires,"16,8","16,0","17,5",06079,mandelieu-la-napoule
+Employés,"12,4","12,2","12,9",06079,mandelieu-la-napoule
+Ouvriers,"13,1","11,6","13,4",06079,mandelieu-la-napoule
+Ensemble,"14,1","13,3","14,9",06083,menton
+Cadres*,"24,6","22,7","25,9",06083,menton
+Professions intermédiaires,"16,1","15,6","16,6",06083,menton
+Employés,"11,7","11,5","12,2",06083,menton
+Ouvriers,"12,1","10,3","12,5",06083,menton
+Ensemble,"15,7","14,5","16,7",06088,nice
+Cadres*,"26,7","24,2","28,2",06088,nice
+Professions intermédiaires,"17,4","15,7","19,4",06088,nice
+Employés,"12,0","11,9","12,2",06088,nice
+Ouvriers,"12,2","10,5","12,6",06088,nice
+Ensemble,"16,5","15,3","17,6",06123,saint-laurent-du-var
+Cadres*,"25,8","23,9","27,0",06123,saint-laurent-du-var
+Professions intermédiaires,"17,0","16,1","18,0",06123,saint-laurent-du-var
+Employés,"12,8","12,5","13,5",06123,saint-laurent-du-var
+Ouvriers,"13,1","11,3","13,4",06123,saint-laurent-du-var
+Ensemble,"16,0","14,7","17,0",06155,vallauris
+Cadres*,"27,1","24,7","28,3",06155,vallauris
+Professions intermédiaires,"15,9","15,4","16,3",06155,vallauris
+Employés,"12,4","12,2","12,8",06155,vallauris
+Ouvriers,"12,3","10,8","12,7",06155,vallauris
+Ensemble,"13,8","12,9","14,3",08105,charleville-mezieres
+Cadres*,"24,7","22,2","26,1",08105,charleville-mezieres
+Professions intermédiaires,"15,4","14,8","15,9",08105,charleville-mezieres
+Employés,"11,1","11,0","11,3",08105,charleville-mezieres
+Ouvriers,"12,0","10,5","12,2",08105,charleville-mezieres
+Ensemble,"13,8","12,8","14,6",10387,troyes
+Cadres*,"24,4","21,2","26,3",10387,troyes
+Professions intermédiaires,"16,2","14,4","17,7",10387,troyes
+Employés,"11,2","11,1","11,3",10387,troyes
+Ouvriers,"11,4","10,4","11,6",10387,troyes
+Ensemble,"13,4","12,8","13,9",11069,carcassonne
+Cadres*,"23,9","22,4","24,9",11069,carcassonne
+Professions intermédiaires,"15,2","14,5","15,8",11069,carcassonne
+Employés,"11,1","11,1","11,2",11069,carcassonne
+Ouvriers,"11,1","10,0","11,3",11069,carcassonne
+Ensemble,"14,1","13,2","14,8",11262,narbonne
+Cadres*,"24,4","21,3","26,3",11262,narbonne
+Professions intermédiaires,"15,7","14,7","16,7",11262,narbonne
+Employés,"11,4","11,3","11,6",11262,narbonne
+Ouvriers,"11,4","10,3","11,6",11262,narbonne
+Ensemble,"13,7","12,7","14,4",12145,millau
+Cadres*,"25,2","22,4","26,5",12145,millau
+Professions intermédiaires,"15,2","14,5","15,9",12145,millau
+Employés,"11,4","11,3","11,7",12145,millau
+Ouvriers,"11,5","10,3","11,9",12145,millau
+Ensemble,"14,2","13,4","14,8",12202,rodez
+Cadres*,"24,6","22,2","26,0",12202,rodez
+Professions intermédiaires,"15,1","14,3","15,8",12202,rodez
+Employés,"11,3","11,3","11,4",12202,rodez
+Ouvriers,"11,5","10,6","11,7",12202,rodez
+Ensemble,"19,3","16,7","21,2",13001,aix-en-provence
+Cadres*,"28,8","24,9","30,8",13001,aix-en-provence
+Professions intermédiaires,"16,8","15,5","17,9",13001,aix-en-provence
+Employés,"12,2","12,2","12,3",13001,aix-en-provence
+Ouvriers,"11,9","10,6","12,3",13001,aix-en-provence
+Ensemble,"19,0","16,6","20,8",13002,allauch
+Cadres*,"27,8","24,1","29,7",13002,allauch
+Professions intermédiaires,"18,4","16,7","20,2",13002,allauch
+Employés,"12,9","12,8","13,2",13002,allauch
+Ouvriers,"14,2","11,7","14,5",13002,allauch
+Ensemble,"14,6","13,2","15,5",13004,arles
+Cadres*,"24,5","21,2","26,5",13004,arles
+Professions intermédiaires,"16,3","14,9","17,2",13004,arles
+Employés,"11,5","11,4","11,7",13004,arles
+Ouvriers,"12,8","10,9","13,1",13004,arles
+Ensemble,"15,8","14,7","16,7",13005,aubagne
+Cadres*,"26,1","23,8","27,4",13005,aubagne
+Professions intermédiaires,"16,6","15,8","17,3",13005,aubagne
+Employés,"12,3","12,2","12,5",13005,aubagne
+Ouvriers,"12,4","11,1","12,8",13005,aubagne
+Ensemble,"17,3","15,7","18,5",13028,la-ciotat
+Cadres*,"28,4","25,2","30,3",13028,la-ciotat
+Professions intermédiaires,"16,7","16,0","17,3",13028,la-ciotat
+Employés,"12,1","12,0","12,4",13028,la-ciotat
+Ouvriers,"12,7","11,4","12,9",13028,la-ciotat
+Ensemble,"15,5","14,2","16,5",13041,gardanne
+Cadres*,"24,4","22,0","25,6",13041,gardanne
+Professions intermédiaires,"16,3","15,2","17,2",13041,gardanne
+Employés,"12,1","12,0","12,5",13041,gardanne
+Ouvriers,"12,8","11,4","13,0",13041,gardanne
+Ensemble,"16,4","13,9","18,0",13047,istres
+Cadres*,"26,6","23,1","28,2",13047,istres
+Professions intermédiaires,"18,3","15,3","20,0",13047,istres
+Employés,"12,0","11,8","12,5",13047,istres
+Ouvriers,"14,1","11,0","14,7",13047,istres
+Ensemble,"15,2","13,9","16,0",13054,marignane
+Cadres*,"23,7","21,9","24,5",13054,marignane
+Professions intermédiaires,"17,2","15,5","18,4",13054,marignane
+Employés,"12,2","12,0","12,6",13054,marignane
+Ouvriers,"12,7","10,9","13,0",13054,marignane
+Ensemble,"16,3","15,3","17,0",13055,marseille
+Cadres*,"27,0","25,0","28,3",13055,marseille
+Professions intermédiaires,"16,9","15,5","18,4",13055,marseille
+Employés,"11,9","11,9","11,9",13055,marseille
+Ouvriers,"12,1","10,7","12,3",13055,marseille
+Ensemble,"16,9","14,8","18,2",13056,martigues
+Cadres*,"27,3","24,2","28,8",13056,martigues
+Professions intermédiaires,"18,4","15,9","20,0",13056,martigues
+Employés,"12,3","12,0","13,0",13056,martigues
+Ouvriers,"13,9","10,9","14,3",13056,martigues
+Ensemble,"14,5","12,8","15,4",13063,miramas
+Cadres*,"23,1","20,1","24,4",13063,miramas
+Professions intermédiaires,"17,0","15,0","18,2",13063,miramas
+Employés,"11,9","11,6","12,7",13063,miramas
+Ouvriers,"12,9","10,8","13,3",13063,miramas
+Ensemble,"17,8","16,1","19,2",13071,les-pennes-mirabeau
+Cadres*,"25,6","23,1","27,3",13071,les-pennes-mirabeau
+Professions intermédiaires,"17,6","16,1","19,0",13071,les-pennes-mirabeau
+Employés,"12,9","12,7","13,4",13071,les-pennes-mirabeau
+Ouvriers,"14,4","11,6","14,8",13071,les-pennes-mirabeau
+Ensemble,"16,3","14,5","17,5",13103,salon-de-provence
+Cadres*,"27,0","23,4","28,8",13103,salon-de-provence
+Professions intermédiaires,"16,8","15,2","17,8",13103,salon-de-provence
+Employés,"12,0","11,8","12,4",13103,salon-de-provence
+Ouvriers,"12,6","10,8","12,9",13103,salon-de-provence
+Ensemble,"15,4","14,1","16,3",13117,vitrolles
+Cadres*,"23,8","21,8","24,7",13117,vitrolles
+Professions intermédiaires,"16,7","15,4","17,6",13117,vitrolles
+Employés,"12,2","11,9","12,8",13117,vitrolles
+Ouvriers,"12,9","10,9","13,2",13117,vitrolles
+Ensemble,"15,0","14,1","15,6",14118,caen
+Cadres*,"25,5","23,0","27,0",14118,caen
+Professions intermédiaires,"15,3","14,6","15,9",14118,caen
+Employés,"11,3","11,3","11,4",14118,caen
+Ouvriers,"11,3","10,2","11,5",14118,caen
+Ensemble,"13,3","12,6","13,8",14327,herouville-saint-clair
+Cadres*,"23,1","21,2","24,1",14327,herouville-saint-clair
+Professions intermédiaires,"14,7","14,0","15,3",14327,herouville-saint-clair
+Employés,"11,2","11,1","11,3",14327,herouville-saint-clair
+Ouvriers,"11,6","10,6","11,8",14327,herouville-saint-clair
+Ensemble,"13,3","12,6","13,8",15014,aurillac
+Cadres*,"23,2","20,1","25,3",15014,aurillac
+Professions intermédiaires,"14,9","14,1","15,6",15014,aurillac
+Employés,"11,4","11,3","11,4",15014,aurillac
+Ouvriers,"11,0","10,0","11,2",15014,aurillac
+Ensemble,"14,6","13,6","15,3",16015,angouleme
+Cadres*,"23,9","21,5","25,4",16015,angouleme
+Professions intermédiaires,"14,9","14,2","15,5",16015,angouleme
+Employés,"11,4","11,4","11,3",16015,angouleme
+Ouvriers,"11,5","10,4","11,7",16015,angouleme
+Ensemble,"13,5","13,0","13,9",17299,rochefort
+Cadres*,"22,3","21,5","22,8",17299,rochefort
+Professions intermédiaires,"15,1","14,3","15,6",17299,rochefort
+Employés,"11,5","11,5","11,5",17299,rochefort
+Ouvriers,"11,6","10,6","11,8",17299,rochefort
+Ensemble,"15,5","14,3","16,3",17300,la-rochelle
+Cadres*,"26,7","23,2","28,9",17300,la-rochelle
+Professions intermédiaires,"15,5","14,7","16,2",17300,la-rochelle
+Employés,"11,6","11,6","11,6",17300,la-rochelle
+Ouvriers,"11,6","10,6","11,9",17300,la-rochelle
+Ensemble,"14,2","13,6","14,7",17415,saintes
+Cadres*,"24,9","22,2","26,6",17415,saintes
+Professions intermédiaires,"15,6","15,1","16,1",17415,saintes
+Employés,"11,6","11,6","11,7",17415,saintes
+Ouvriers,"11,4","10,2","11,6",17415,saintes
+Ensemble,"15,0","13,8","15,8",18033,bourges
+Cadres*,"25,4","22,1","26,9",18033,bourges
+Professions intermédiaires,"15,7","15,1","16,2",18033,bourges
+Employés,"11,5","11,5","11,5",18033,bourges
+Ouvriers,"11,7","10,5","11,9",18033,bourges
+Ensemble,"13,3","12,4","13,9",18279,vierzon
+Cadres*,"22,6","20,4","23,8",18279,vierzon
+Professions intermédiaires,"15,2","14,2","16,0",18279,vierzon
+Employés,"11,2","11,3","11,0",18279,vierzon
+Ouvriers,"12,0","10,5","12,4",18279,vierzon
+Ensemble,"14,4","13,3","15,3",19031,brive-la-gaillarde
+Cadres*,"25,7","22,6","27,4",19031,brive-la-gaillarde
+Professions intermédiaires,"15,9","14,4","17,1",19031,brive-la-gaillarde
+Employés,"11,3","11,2","11,7",19031,brive-la-gaillarde
+Ouvriers,"11,6","10,4","11,8",19031,brive-la-gaillarde
+Ensemble,"15,6","14,2","16,7",21054,beaune
+Cadres*,"28,9","23,9","31,9",21054,beaune
+Professions intermédiaires,"15,8","15,3","16,2",21054,beaune
+Employés,"12,2","12,0","12,7",21054,beaune
+Ouvriers,"11,9","10,8","12,3",21054,beaune
+Ensemble,"15,2","14,3","15,9",21231,dijon
+Cadres*,"24,7","22,5","26,1",21231,dijon
+Professions intermédiaires,"15,3","14,7","15,9",21231,dijon
+Employés,"11,6","11,6","11,8",21231,dijon
+Ouvriers,"11,8","10,7","12,1",21231,dijon
+Ensemble,"16,1","14,3","17,3",22113,lannion
+Cadres*,"25,8","23,5","26,7",22113,lannion
+Professions intermédiaires,"14,9","14,7","15,1",22113,lannion
+Employés,"11,3","11,2","11,6",22113,lannion
+Ouvriers,"11,2","10,3","11,4",22113,lannion
+Ensemble,"13,9","13,4","14,2",22278,saint-brieuc
+Cadres*,"24,8","22,2","26,6",22278,saint-brieuc
+Professions intermédiaires,"14,9","14,4","15,4",22278,saint-brieuc
+Employés,"11,5","11,5","11,6",22278,saint-brieuc
+Ouvriers,"11,5","10,7","11,7",22278,saint-brieuc
+Ensemble,"13,6","12,9","14,1",24037,bergerac
+Cadres*,"24,5","21,3","26,5",24037,bergerac
+Professions intermédiaires,"15,2","14,8","15,6",24037,bergerac
+Employés,"11,4","11,4","11,5",24037,bergerac
+Ouvriers,"11,1","9,5","11,5",24037,bergerac
+Ensemble,"13,6","13,2","14,0",24322,perigueux
+Cadres*,"24,0","21,5","25,8",24322,perigueux
+Professions intermédiaires,"14,9","14,4","15,4",24322,perigueux
+Employés,"11,3","11,3","11,2",24322,perigueux
+Ouvriers,"10,8","9,8","11,1",24322,perigueux
+Ensemble,"14,4","13,7","15,0",25056,besancon
+Cadres*,"24,0","22,0","25,2",25056,besancon
+Professions intermédiaires,"15,0","14,5","15,4",25056,besancon
+Employés,"11,6","11,5","11,7",25056,besancon
+Ouvriers,"11,6","10,5","11,9",25056,besancon
+Ensemble,"15,2","13,4","16,2",25388,montbeliard
+Cadres*,"26,2","22,1","27,8",25388,montbeliard
+Professions intermédiaires,"16,6","14,7","17,8",25388,montbeliard
+Employés,"11,4","11,4","11,2",25388,montbeliard
+Ouvriers,"12,2","11,3","12,5",25388,montbeliard
+Ensemble,"15,3","13,6","16,4",26198,montelimar
+Cadres*,"26,8","22,7","28,6",26198,montelimar
+Professions intermédiaires,"17,0","15,3","18,1",26198,montelimar
+Employés,"11,5","11,3","11,7",26198,montelimar
+Ouvriers,"12,0","11,1","12,2",26198,montelimar
+Ensemble,"14,5","13,2","15,4",26281,romans-sur-isere
+Cadres*,"25,2","22,5","26,4",26281,romans-sur-isere
+Professions intermédiaires,"16,2","14,8","17,3",26281,romans-sur-isere
+Employés,"11,9","11,7","12,2",26281,romans-sur-isere
+Ouvriers,"12,0","11,0","12,4",26281,romans-sur-isere
+Ensemble,"14,9","13,7","15,7",26362,valence
+Cadres*,"25,3","22,2","26,8",26362,valence
+Professions intermédiaires,"15,2","14,6","15,8",26362,valence
+Employés,"11,6","11,5","11,8",26362,valence
+Ouvriers,"11,6","10,6","11,9",26362,valence
+Ensemble,"14,1","13,6","14,5",27229,evreux
+Cadres*,"26,1","24,1","27,4",27229,evreux
+Professions intermédiaires,"15,5","14,9","16,1",27229,evreux
+Employés,"11,3","11,4","11,2",27229,evreux
+Ouvriers,"11,1","10,2","11,4",27229,evreux
+Ensemble,"17,2","15,6","18,1",27681,vernon
+Cadres*,"28,2","25,1","29,9",27681,vernon
+Professions intermédiaires,"16,9","15,8","17,7",27681,vernon
+Employés,"12,1","12,1","12,2",27681,vernon
+Ouvriers,"12,2","10,9","12,5",27681,vernon
+Ensemble,"16,7","15,3","17,6",28085,chartres
+Cadres*,"28,0","24,3","30,2",28085,chartres
+Professions intermédiaires,"16,1","15,4","16,8",28085,chartres
+Employés,"11,9","11,8","12,1",28085,chartres
+Ouvriers,"12,1","11,3","12,3",28085,chartres
+Ensemble,"13,8","13,1","14,2",28134,dreux
+Cadres*,"24,5","22,6","25,3",28134,dreux
+Professions intermédiaires,"15,7","15,0","16,2",28134,dreux
+Employés,"11,3","11,3","11,2",28134,dreux
+Ouvriers,"12,2","11,5","12,3",28134,dreux
+Ensemble,"14,5","13,5","15,2",29019,brest
+Cadres*,"23,3","21,2","24,4",29019,brest
+Professions intermédiaires,"15,1","14,4","15,7",29019,brest
+Employés,"11,4","11,3","11,4",29019,brest
+Ouvriers,"11,7","10,4","12,0",29019,brest
+Ensemble,"15,2","13,8","16,4",29039,concarneau
+Cadres*,"27,0","22,7","29,3",29039,concarneau
+Professions intermédiaires,"15,9","15,2","16,6",29039,concarneau
+Employés,"11,8","11,7","11,9",29039,concarneau
+Ouvriers,"12,1","10,9","12,4",29039,concarneau
+Ensemble,"14,6","13,6","15,4",29232,quimper
+Cadres*,"25,2","21,8","27,1",29232,quimper
+Professions intermédiaires,"15,5","14,9","16,0",29232,quimper
+Employés,"11,6","11,4","11,9",29232,quimper
+Ouvriers,"11,6","10,8","11,9",29232,quimper
+Ensemble,"15,2","14,0","16,2",2A004,ajaccio
+Cadres*,"25,7","22,5","27,9",2A004,ajaccio
+Professions intermédiaires,"17,1","15,9","18,3",2A004,ajaccio
+Employés,"12,0","11,8","12,4",2A004,ajaccio
+Ouvriers,"12,5","10,5","12,9",2A004,ajaccio
+Ensemble,"14,6","13,9","15,1",2B033,bastia
+Cadres*,"23,9","22,6","24,9",2B033,bastia
+Professions intermédiaires,"16,4","15,6","17,2",2B033,bastia
+Employés,"12,0","11,9","12,3",2B033,bastia
+Ouvriers,"12,4","10,3","12,7",2B033,bastia
+Ensemble,"13,1","12,4","13,6",30007,ales
+Cadres*,"23,4","22,0","24,1",30007,ales
+Professions intermédiaires,"14,9","14,3","15,4",30007,ales
+Employés,"11,2","11,1","11,4",30007,ales
+Ouvriers,"11,4","10,0","11,7",30007,ales
+Ensemble,"14,5","13,5","15,2",30189,nimes
+Cadres*,"25,6","22,5","27,3",30189,nimes
+Professions intermédiaires,"15,3","14,5","16,1",30189,nimes
+Employés,"11,4","11,3","11,5",30189,nimes
+Ouvriers,"11,6","10,4","11,8",30189,nimes
+Ensemble,"19,7","17,5","21,2",31069,blagnac
+Cadres*,"27,6","24,9","28,9",31069,blagnac
+Professions intermédiaires,"16,7","15,2","17,8",31069,blagnac
+Employés,"12,1","12,2","11,9",31069,blagnac
+Ouvriers,"11,9","10,4","12,2",31069,blagnac
+Ensemble,"18,5","16,4","19,9",31149,colomiers
+Cadres*,"26,9","24,1","28,2",31149,colomiers
+Professions intermédiaires,"16,8","15,4","17,7",31149,colomiers
+Employés,"12,0","12,0","12,0",31149,colomiers
+Ouvriers,"12,1","10,7","12,4",31149,colomiers
+Ensemble,"17,5","15,7","18,6",31157,cugnaux
+Cadres*,"25,9","23,5","27,0",31157,cugnaux
+Professions intermédiaires,"16,2","15,4","16,9",31157,cugnaux
+Employés,"12,1","12,0","12,4",31157,cugnaux
+Ouvriers,"12,3","11,0","12,5",31157,cugnaux
+Ensemble,"15,6","13,9","16,6",31395,muret
+Cadres*,"26,2","22,9","27,6",31395,muret
+Professions intermédiaires,"16,0","15,2","16,6",31395,muret
+Employés,"11,6","11,6","11,8",31395,muret
+Ouvriers,"12,2","10,7","12,5",31395,muret
+Ensemble,"17,0","15,7","18,0",31555,toulouse
+Cadres*,"24,5","22,8","25,5",31555,toulouse
+Professions intermédiaires,"15,4","14,7","16,1",31555,toulouse
+Employés,"11,6","11,6","11,6",31555,toulouse
+Ouvriers,"11,6","10,5","11,9",31555,toulouse
+Ensemble,"22,4","19,3","24,6",31557,tournefeuille
+Cadres*,"30,5","26,7","32,6",31557,tournefeuille
+Professions intermédiaires,"16,8","15,8","17,8",31557,tournefeuille
+Employés,"12,3","12,3","12,3",31557,tournefeuille
+Ouvriers,"12,5","11,0","12,8",31557,tournefeuille
+Ensemble,"13,5","13,2","13,7",32013,auch
+Cadres*,"23,0","21,2","24,1",32013,auch
+Professions intermédiaires,"14,6","14,4","14,8",32013,auch
+Employés,"11,4","11,4","11,4",32013,auch
+Ouvriers,"11,0","10,3","11,2",32013,auch
+Ensemble,"16,2","15,3","16,9",33039,begles
+Cadres*,"24,6","22,9","25,7",33039,begles
+Professions intermédiaires,"16,0","15,2","16,8",33039,begles
+Employés,"12,2","12,1","12,4",33039,begles
+Ouvriers,"12,2","10,8","12,5",33039,begles
+Ensemble,"18,3","16,4","19,8",33063,bordeaux
+Cadres*,"28,3","24,4","30,9",33063,bordeaux
+Professions intermédiaires,"15,8","15,1","16,4",33063,bordeaux
+Employés,"12,0","11,9","12,2",33063,bordeaux
+Ouvriers,"11,6","10,7","11,8",33063,bordeaux
+Ensemble,"20,7","18,2","22,8",33069,le-bouscat
+Cadres*,"30,7","26,7","33,3",33069,le-bouscat
+Professions intermédiaires,"18,1","16,5","20,0",33069,le-bouscat
+Employés,"12,7","12,6","12,7",33069,le-bouscat
+Ouvriers,"11,9","10,8","12,2",33069,le-bouscat
+Ensemble,"17,6","16,1","18,9",33075,bruges
+Cadres*,"26,6","24,3","28,0",33075,bruges
+Professions intermédiaires,"16,1","15,4","16,9",33075,bruges
+Employés,"12,6","12,5","13,1",33075,bruges
+Ouvriers,"12,5","11,1","12,7",33075,bruges
+Ensemble,"14,0","13,2","14,5",33119,cenon
+Cadres*,"21,9","20,4","22,7",33119,cenon
+Professions intermédiaires,"15,0","14,2","15,7",33119,cenon
+Employés,"11,7","11,6","11,9",33119,cenon
+Ouvriers,"11,7","10,2","12,0",33119,cenon
+Ensemble,"16,4","15,0","17,5",33162,eysines
+Cadres*,"25,1","22,4","26,6",33162,eysines
+Professions intermédiaires,"16,4","15,5","17,3",33162,eysines
+Employés,"12,3","12,2","12,6",33162,eysines
+Ouvriers,"12,3","10,9","12,6",33162,eysines
+Ensemble,"18,1","16,0","19,6",33192,gradignan
+Cadres*,"28,4","24,3","30,6",33192,gradignan
+Professions intermédiaires,"16,2","15,3","17,0",33192,gradignan
+Employés,"12,3","12,2","12,5",33192,gradignan
+Ouvriers,"11,9","10,9","12,1",33192,gradignan
+Ensemble,"17,1","14,8","19,1",33199,gujan-mestras
+Cadres*,"30,1","24,8","33,0",33199,gujan-mestras
+Professions intermédiaires,"16,8","15,5","18,2",33199,gujan-mestras
+Employés,"12,0","11,8","12,3",33199,gujan-mestras
+Ouvriers,"12,4","10,7","12,6",33199,gujan-mestras
+Ensemble,"14,9","13,9","15,6",33243,libourne
+Cadres*,"25,9","24,1","27,0",33243,libourne
+Professions intermédiaires,"15,7","15,0","16,4",33243,libourne
+Employés,"11,4","11,4","11,5",33243,libourne
+Ouvriers,"11,6","10,1","11,9",33243,libourne
+Ensemble,"13,3","12,6","13,7",33249,lormont
+Cadres*,"21,4","20,1","22,1",33249,lormont
+Professions intermédiaires,"14,9","14,2","15,5",33249,lormont
+Employés,"11,5","11,4","11,8",33249,lormont
+Ouvriers,"11,7","10,3","12,0",33249,lormont
+Ensemble,"17,0","15,5","18,1",33281,merignac
+Cadres*,"25,3","23,1","26,5",33281,merignac
+Professions intermédiaires,"16,0","15,4","16,5",33281,merignac
+Employés,"12,3","12,1","12,6",33281,merignac
+Ouvriers,"12,0","10,7","12,2",33281,merignac
+Ensemble,"18,0","16,3","19,2",33318,pessac
+Cadres*,"27,4","24,7","28,8",33318,pessac
+Professions intermédiaires,"16,1","15,8","16,5",33318,pessac
+Employés,"12,1","12,1","12,1",33318,pessac
+Ouvriers,"11,8","10,6","12,1",33318,pessac
+Ensemble,"18,6","16,4","20,3",33449,saint-medard-en-jalles
+Cadres*,"27,7","24,3","29,6",33449,saint-medard-en-jalles
+Professions intermédiaires,"16,8","15,9","17,7",33449,saint-medard-en-jalles
+Employés,"12,5","12,3","13,0",33449,saint-medard-en-jalles
+Ouvriers,"12,7","11,3","13,0",33449,saint-medard-en-jalles
+Ensemble,"16,8","15,4","17,8",33522,talence
+Cadres*,"25,2","23,1","26,3",33522,talence
+Professions intermédiaires,"15,4","15,1","15,8",33522,talence
+Employés,"11,7","11,7","11,8",33522,talence
+Ouvriers,"11,6","10,5","11,8",33522,talence
+Ensemble,"16,0","14,0","17,9",33529,la-teste-de-buch
+Cadres*,"30,7","23,8","34,6",33529,la-teste-de-buch
+Professions intermédiaires,"15,9","15,0","17,0",33529,la-teste-de-buch
+Employés,"11,9","11,8","12,1",33529,la-teste-de-buch
+Ouvriers,"12,6","10,8","12,9",33529,la-teste-de-buch
+Ensemble,"15,5","14,4","16,4",33550,villenave-d-ornon
+Cadres*,"23,7","21,8","24,8",33550,villenave-d-ornon
+Professions intermédiaires,"15,7","14,9","16,4",33550,villenave-d-ornon
+Employés,"12,0","11,9","12,3",33550,villenave-d-ornon
+Ouvriers,"12,3","11,3","12,5",33550,villenave-d-ornon
+Ensemble,"13,8","12,8","14,6",34003,agde
+Cadres*,"23,4","20,8","24,8",34003,agde
+Professions intermédiaires,"15,7","15,0","16,2",34003,agde
+Employés,"11,2","11,1","11,3",34003,agde
+Ouvriers,"11,9","10,8","12,1",34003,agde
+Ensemble,"13,4","12,8","13,8",34032,beziers
+Cadres*,"23,3","21,1","24,6",34032,beziers
+Professions intermédiaires,"15,4","14,7","15,9",34032,beziers
+Employés,"11,3","11,2","11,5",34032,beziers
+Ouvriers,"11,4","10,1","11,6",34032,beziers
+Ensemble,"18,1","16,0","19,7",34057,castelnau-le-lez
+Cadres*,"27,0","23,4","29,1",34057,castelnau-le-lez
+Professions intermédiaires,"16,3","15,1","17,5",34057,castelnau-le-lez
+Employés,"12,1","12,1","12,1",34057,castelnau-le-lez
+Ouvriers,"11,8","10,8","11,9",34057,castelnau-le-lez
+Ensemble,"14,7","13,6","15,4",34108,frontignan
+Cadres*,"23,6","21,3","25,0",34108,frontignan
+Professions intermédiaires,"15,8","15,0","16,5",34108,frontignan
+Employés,"11,8","11,6","12,0",34108,frontignan
+Ouvriers,"12,4","10,5","12,6",34108,frontignan
+Ensemble,"14,2","13,1","14,9",34145,lunel
+Cadres*,"23,8","21,3","25,1",34145,lunel
+Professions intermédiaires,"15,8","14,7","16,7",34145,lunel
+Employés,"11,8","11,5","12,3",34145,lunel
+Ouvriers,"11,8","10,5","12,1",34145,lunel
+Ensemble,"15,2","14,4","15,8",34172,montpellier
+Cadres*,"23,6","21,7","24,8",34172,montpellier
+Professions intermédiaires,"15,3","14,6","15,9",34172,montpellier
+Employés,"11,4","11,4","11,5",34172,montpellier
+Ouvriers,"11,3","10,1","11,5",34172,montpellier
+Ensemble,"14,5","13,4","15,4",34301,sete
+Cadres*,"26,0","22,0","28,6",34301,sete
+Professions intermédiaires,"15,3","14,7","16,0",34301,sete
+Employés,"11,4","11,3","11,5",34301,sete
+Ouvriers,"12,2","10,7","12,5",34301,sete
+Ensemble,"13,7","12,9","14,2",35115,fougeres
+Cadres*,"24,3","22,7","25,0",35115,fougeres
+Professions intermédiaires,"14,8","14,6","14,9",35115,fougeres
+Employés,"11,6","11,6","11,6",35115,fougeres
+Ouvriers,"11,6","10,8","11,8",35115,fougeres
+Ensemble,"16,8","15,4","17,7",35238,rennes
+Cadres*,"25,3","23,1","26,5",35238,rennes
+Professions intermédiaires,"16,3","14,8","17,7",35238,rennes
+Employés,"11,6","11,6","11,7",35238,rennes
+Ouvriers,"11,3","10,3","11,6",35238,rennes
+Ensemble,"16,2","14,3","17,7",35288,saint-malo
+Cadres*,"30,9","25,0","34,3",35288,saint-malo
+Professions intermédiaires,"15,5","14,9","16,1",35288,saint-malo
+Employés,"11,6","11,5","11,8",35288,saint-malo
+Ouvriers,"11,4","10,1","11,8",35288,saint-malo
+Ensemble,"13,9","12,9","14,5",36044,chateauroux
+Cadres*,"24,0","21,1","25,4",36044,chateauroux
+Professions intermédiaires,"15,5","14,8","16,1",36044,chateauroux
+Employés,"11,3","11,3","11,3",36044,chateauroux
+Ouvriers,"11,5","10,4","11,8",36044,chateauroux
+Ensemble,"14,9","13,9","15,7",37122,joue-les-tours
+Cadres*,"24,3","22,1","25,4",37122,joue-les-tours
+Professions intermédiaires,"15,6","15,0","16,0",37122,joue-les-tours
+Employés,"11,9","11,8","12,0",37122,joue-les-tours
+Ouvriers,"12,2","11,1","12,4",37122,joue-les-tours
+Ensemble,"15,5","14,3","16,4",37261,tours
+Cadres*,"25,5","22,7","27,1",37261,tours
+Professions intermédiaires,"15,1","14,4","15,6",37261,tours
+Employés,"11,6","11,5","11,7",37261,tours
+Ouvriers,"11,5","10,5","11,7",37261,tours
+Ensemble,"15,3","14,2","16,0",38053,bourgoin-jallieu
+Cadres*,"26,4","24,4","27,5",38053,bourgoin-jallieu
+Professions intermédiaires,"15,9","15,2","16,3",38053,bourgoin-jallieu
+Employés,"11,9","11,8","12,1",38053,bourgoin-jallieu
+Ouvriers,"12,1","11,2","12,3",38053,bourgoin-jallieu
+Ensemble,"14,4","13,5","15,0",38151,echirolles
+Cadres*,"22,6","20,7","23,5",38151,echirolles
+Professions intermédiaires,"15,9","15,0","16,7",38151,echirolles
+Employés,"11,8","11,9","11,7",38151,echirolles
+Ouvriers,"12,4","11,0","12,6",38151,echirolles
+Ensemble,"14,9","13,8","15,6",38169,fontaine
+Cadres*,"22,1","21,1","22,6",38169,fontaine
+Professions intermédiaires,"15,8","14,7","16,7",38169,fontaine
+Employés,"11,7","11,5","12,1",38169,fontaine
+Ouvriers,"12,6","11,0","13,0",38169,fontaine
+Ensemble,"16,8","15,5","17,6",38185,grenoble
+Cadres*,"23,6","21,9","24,5",38185,grenoble
+Professions intermédiaires,"15,4","14,7","16,0",38185,grenoble
+Employés,"11,7","11,7","11,7",38185,grenoble
+Ouvriers,"11,9","10,7","12,2",38185,grenoble
+Ensemble,"15,2","13,9","15,9",38421,saint-martin-d-heres
+Cadres*,"22,3","20,8","22,9",38421,saint-martin-d-heres
+Professions intermédiaires,"15,6","14,7","16,2",38421,saint-martin-d-heres
+Employés,"11,7","11,6","11,8",38421,saint-martin-d-heres
+Ouvriers,"12,9","11,1","13,2",38421,saint-martin-d-heres
+Ensemble,"16,0","14,8","16,7",38544,vienne
+Cadres*,"27,1","24,8","28,3",38544,vienne
+Professions intermédiaires,"16,3","15,4","17,1",38544,vienne
+Employés,"11,8","11,8","11,9",38544,vienne
+Ouvriers,"12,3","11,0","12,5",38544,vienne
+Ensemble,"17,0","15,1","18,1",38563,voiron
+Cadres*,"27,3","24,2","28,6",38563,voiron
+Professions intermédiaires,"16,3","15,1","17,1",38563,voiron
+Employés,"12,0","11,9","12,3",38563,voiron
+Ouvriers,"12,2","11,0","12,5",38563,voiron
+Ensemble,"14,9","13,6","15,8",39198,dole
+Cadres*,"25,3","22,4","26,9",39198,dole
+Professions intermédiaires,"16,6","15,0","17,7",39198,dole
+Employés,"11,5","11,4","11,7",39198,dole
+Ouvriers,"12,7","11,6","13,0",39198,dole
+Ensemble,"13,5","12,5","14,3",40088,dax
+Cadres*,"24,2","21,2","26,0",40088,dax
+Professions intermédiaires,"15,2","14,2","16,1",40088,dax
+Employés,"11,2","11,0","11,7",40088,dax
+Ouvriers,"11,6","10,2","12,0",40088,dax
+Ensemble,"13,7","12,9","14,2",40192,mont-de-marsan
+Cadres*,"24,3","20,8","26,4",40192,mont-de-marsan
+Professions intermédiaires,"15,2","14,7","15,6",40192,mont-de-marsan
+Employés,"11,4","11,3","11,5",40192,mont-de-marsan
+Ouvriers,"11,2","10,1","11,5",40192,mont-de-marsan
+Ensemble,"14,4","13,6","14,9",41018,blois
+Cadres*,"25,9","24,2","26,8",41018,blois
+Professions intermédiaires,"15,3","14,8","15,7",41018,blois
+Employés,"11,5","11,4","11,6",41018,blois
+Ouvriers,"11,5","10,6","11,8",41018,blois
+Ensemble,"13,5","12,5","14,1",42187,roanne
+Cadres*,"23,7","22,2","24,4",42187,roanne
+Professions intermédiaires,"14,6","13,8","15,1",42187,roanne
+Employés,"11,4","11,3","11,7",42187,roanne
+Ouvriers,"11,7","10,3","12,0",42187,roanne
+Ensemble,"14,7","13,6","15,3",42207,saint-chamond
+Cadres*,"24,6","22,2","25,8",42207,saint-chamond
+Professions intermédiaires,"15,9","14,7","16,8",42207,saint-chamond
+Employés,"11,8","11,8","11,7",42207,saint-chamond
+Ouvriers,"12,6","11,2","12,9",42207,saint-chamond
+Ensemble,"14,1","13,2","14,7",42218,saint-etienne
+Cadres*,"23,3","21,2","24,3",42218,saint-etienne
+Professions intermédiaires,"15,2","14,4","15,8",42218,saint-etienne
+Employés,"11,5","11,5","11,6",42218,saint-etienne
+Ouvriers,"12,0","10,3","12,3",42218,saint-etienne
+Ensemble,"15,9","14,7","16,8",44020,bouguenais
+Cadres*,"24,0","22,0","24,9",44020,bouguenais
+Professions intermédiaires,"15,7","14,9","16,4",44020,bouguenais
+Employés,"12,3","12,4","12,2",44020,bouguenais
+Ouvriers,"12,6","10,9","12,9",44020,bouguenais
+Ensemble,"20,1","16,9","22,5",44026,carquefou
+Cadres*,"28,9","24,4","31,1",44026,carquefou
+Professions intermédiaires,"17,5","15,8","19,1",44026,carquefou
+Employés,"12,5","12,4","12,8",44026,carquefou
+Ouvriers,"12,4","11,2","12,6",44026,carquefou
+Ensemble,"20,1","17,1","22,3",44035,la-chapelle-sur-erdre
+Cadres*,"27,8","24,3","29,6",44035,la-chapelle-sur-erdre
+Professions intermédiaires,"17,3","15,6","18,8",44035,la-chapelle-sur-erdre
+Employés,"12,5","12,1","13,6",44035,la-chapelle-sur-erdre
+Ouvriers,"12,4","11,6","12,5",44035,la-chapelle-sur-erdre
+Ensemble,"16,5","15,2","17,5",44047,coueron
+Cadres*,"24,4","22,6","25,4",44047,coueron
+Professions intermédiaires,"16,1","15,2","17,0",44047,coueron
+Employés,"12,5","12,4","12,9",44047,coueron
+Ouvriers,"12,8","11,5","13,0",44047,coueron
+Ensemble,"17,5","15,9","18,6",44109,nantes
+Cadres*,"25,9","23,2","27,4",44109,nantes
+Professions intermédiaires,"15,3","14,6","15,9",44109,nantes
+Employés,"11,9","11,9","11,9",44109,nantes
+Ouvriers,"11,5","10,5","11,7",44109,nantes
+Ensemble,"19,6","17,1","21,4",44114,orvault
+Cadres*,"28,3","24,8","30,1",44114,orvault
+Professions intermédiaires,"16,8","15,6","18,0",44114,orvault
+Employés,"12,5","12,3","12,9",44114,orvault
+Ouvriers,"12,0","10,9","12,2",44114,orvault
+Ensemble,"16,2","14,8","17,2",44143,reze
+Cadres*,"24,6","22,0","26,1",44143,reze
+Professions intermédiaires,"15,4","14,7","16,1",44143,reze
+Employés,"12,1","12,0","12,2",44143,reze
+Ouvriers,"12,1","11,0","12,3",44143,reze
+Ensemble,"15,6","14,5","16,4",44162,saint-herblain
+Cadres*,"22,7","21,3","23,5",44162,saint-herblain
+Professions intermédiaires,"15,4","14,8","15,8",44162,saint-herblain
+Employés,"12,1","12,0","12,2",44162,saint-herblain
+Ouvriers,"11,6","10,2","11,9",44162,saint-herblain
+Ensemble,"15,2","13,6","16,1",44184,saint-nazaire
+Cadres*,"25,1","22,1","26,4",44184,saint-nazaire
+Professions intermédiaires,"15,9","14,9","16,6",44184,saint-nazaire
+Employés,"11,6","11,5","11,8",44184,saint-nazaire
+Ouvriers,"12,8","10,9","13,2",44184,saint-nazaire
+Ensemble,"17,4","15,7","18,7",44190,saint-sebastien-sur-loire
+Cadres*,"25,5","23,1","26,8",44190,saint-sebastien-sur-loire
+Professions intermédiaires,"16,2","15,1","17,2",44190,saint-sebastien-sur-loire
+Employés,"12,3","12,2","12,5",44190,saint-sebastien-sur-loire
+Ouvriers,"12,2","10,8","12,5",44190,saint-sebastien-sur-loire
+Ensemble,"19,4","16,9","21,3",44215,vertou
+Cadres*,"29,0","25,1","31,1",44215,vertou
+Professions intermédiaires,"16,6","15,4","17,7",44215,vertou
+Employés,"12,8","12,6","13,1",44215,vertou
+Ouvriers,"12,5","11,4","12,7",44215,vertou
+Ensemble,"14,9","14,2","15,5",45147,fleury-les-aubrais
+Cadres*,"24,5","23,1","25,3",45147,fleury-les-aubrais
+Professions intermédiaires,"16,0","15,6","16,4",45147,fleury-les-aubrais
+Employés,"12,0","11,8","12,3",45147,fleury-les-aubrais
+Ouvriers,"12,3","11,5","12,5",45147,fleury-les-aubrais
+Ensemble,"18,6","16,4","20,5",45232,olivet
+Cadres*,"28,4","25,0","30,2",45232,olivet
+Professions intermédiaires,"16,6","15,6","17,6",45232,olivet
+Employés,"12,1","12,2","12,0",45232,olivet
+Ouvriers,"12,4","11,5","12,6",45232,olivet
+Ensemble,"15,9","14,7","16,7",45234,orleans
+Cadres*,"26,5","23,5","28,2",45234,orleans
+Professions intermédiaires,"15,7","15,2","16,2",45234,orleans
+Employés,"11,6","11,6","11,6",45234,orleans
+Ouvriers,"11,7","10,9","11,9",45234,orleans
+Ensemble,"15,2","14,4","15,9",45284,saint-jean-de-braye
+Cadres*,"25,2","23,4","26,2",45284,saint-jean-de-braye
+Professions intermédiaires,"16,0","15,7","16,3",45284,saint-jean-de-braye
+Employés,"11,9","11,8","11,9",45284,saint-jean-de-braye
+Ouvriers,"12,3","11,7","12,5",45284,saint-jean-de-braye
+Ensemble,"13,7","13,0","14,2",46042,cahors
+Cadres*,"24,8","21,3","27,0",46042,cahors
+Professions intermédiaires,"15,0","14,7","15,3",46042,cahors
+Employés,"11,2","11,2","11,2",46042,cahors
+Ouvriers,"11,0","9,9","11,3",46042,cahors
+Ensemble,"13,8","13,1","14,3",47001,agen
+Cadres*,"25,1","22,4","26,9",47001,agen
+Professions intermédiaires,"15,4","14,6","16,2",47001,agen
+Employés,"11,3","11,3","11,3",47001,agen
+Ouvriers,"11,3","10,5","11,6",47001,agen
+Ensemble,"13,1","12,6","13,5",47323,villeneuve-sur-lot
+Cadres*,"23,9","21,9","25,1",47323,villeneuve-sur-lot
+Professions intermédiaires,"14,5","14,3","14,8",47323,villeneuve-sur-lot
+Employés,"11,4","11,3","11,6",47323,villeneuve-sur-lot
+Ouvriers,"11,5","10,8","11,7",47323,villeneuve-sur-lot
+Ensemble,"15,4","14,3","16,2",49007,angers
+Cadres*,"25,8","22,7","27,6",49007,angers
+Professions intermédiaires,"15,6","14,6","16,5",49007,angers
+Employés,"11,6","11,6","11,7",49007,angers
+Ouvriers,"11,2","10,4","11,5",49007,angers
+Ensemble,"13,9","12,6","14,9",49023,beaupreau-en-mauges
+Cadres*,"23,9","20,9","25,1",49023,beaupreau-en-mauges
+Professions intermédiaires,"15,2","13,8","16,2",49023,beaupreau-en-mauges
+Employés,"11,9","11,7","12,6",49023,beaupreau-en-mauges
+Ouvriers,"12,4","11,0","12,8",49023,beaupreau-en-mauges
+Ensemble,"14,0","12,8","14,8",49092,chemille-en-anjou
+Cadres*,"24,1","20,6","25,8",49092,chemille-en-anjou
+Professions intermédiaires,"15,5","14,3","16,5",49092,chemille-en-anjou
+Employés,"11,9","11,8","12,3",49092,chemille-en-anjou
+Ouvriers,"12,3","11,2","12,7",49092,chemille-en-anjou
+Ensemble,"15,0","13,3","16,1",49099,cholet
+Cadres*,"26,7","22,3","28,6",49099,cholet
+Professions intermédiaires,"15,6","14,5","16,5",49099,cholet
+Employés,"11,8","11,6","12,5",49099,cholet
+Ouvriers,"11,8","10,8","12,2",49099,cholet
+Ensemble,"14,3","12,9","15,3",49301,sevremoine
+Cadres*,"23,8","21,0","25,0",49301,sevremoine
+Professions intermédiaires,"15,5","14,2","16,5",49301,sevremoine
+Employés,"11,9","11,7","12,8",49301,sevremoine
+Ouvriers,"12,4","11,2","12,8",49301,sevremoine
+Ensemble,"14,5","13,1","15,5",49328,saumur
+Cadres*,"26,6","22,0","29,1",49328,saumur
+Professions intermédiaires,"15,6","14,6","16,4",49328,saumur
+Employés,"11,4","11,4","11,3",49328,saumur
+Ouvriers,"11,6","10,5","11,9",49328,saumur
+Ensemble,"15,8","13,8","17,0",50129,cherbourg-en-cotentin
+Cadres*,"24,4","22,2","25,3",50129,cherbourg-en-cotentin
+Professions intermédiaires,"16,2","14,6","17,2",50129,cherbourg-en-cotentin
+Employés,"11,5","11,3","12,0",50129,cherbourg-en-cotentin
+Ouvriers,"12,9","11,2","13,4",50129,cherbourg-en-cotentin
+Ensemble,"13,9","13,1","14,5",51108,chalons-en-champagne
+Cadres*,"24,6","22,4","26,0",51108,chalons-en-champagne
+Professions intermédiaires,"15,1","14,4","15,7",51108,chalons-en-champagne
+Employés,"11,4","11,3","11,5",51108,chalons-en-champagne
+Ouvriers,"12,1","10,9","12,4",51108,chalons-en-champagne
+Ensemble,"14,9","13,6","15,8",51230,epernay
+Cadres*,"27,3","23,6","29,4",51230,epernay
+Professions intermédiaires,"16,3","15,4","17,2",51230,epernay
+Employés,"11,6","11,7","11,6",51230,epernay
+Ouvriers,"12,9","11,4","13,3",51230,epernay
+Ensemble,"15,4","14,3","16,2",51454,reims
+Cadres*,"26,9","24,2","28,5",51454,reims
+Professions intermédiaires,"16,4","15,1","17,6",51454,reims
+Employés,"11,6","11,5","11,8",51454,reims
+Ouvriers,"12,0","10,8","12,2",51454,reims
+Ensemble,"14,0","13,1","14,6",52121,chaumont
+Cadres*,"24,8","21,5","26,8",52121,chaumont
+Professions intermédiaires,"15,5","14,8","16,1",52121,chaumont
+Employés,"11,4","11,4","11,5",52121,chaumont
+Ouvriers,"11,8","11,0","12,0",52121,chaumont
+Ensemble,"13,0","12,2","13,5",52448,saint-dizier
+Cadres*,"22,9","21,4","23,5",52448,saint-dizier
+Professions intermédiaires,"15,3","14,3","15,9",52448,saint-dizier
+Employés,"11,2","11,1","11,4",52448,saint-dizier
+Ouvriers,"11,6","9,8","11,9",52448,saint-dizier
+Ensemble,"15,0","13,8","15,9",53130,laval
+Cadres*,"26,2","22,1","28,6",53130,laval
+Professions intermédiaires,"15,7","14,8","16,4",53130,laval
+Employés,"11,8","11,6","12,2",53130,laval
+Ouvriers,"11,3","10,4","11,6",53130,laval
+Ensemble,"16,0","14,9","16,8",54395,nancy
+Cadres*,"25,4","22,9","27,1",54395,nancy
+Professions intermédiaires,"15,3","15,0","15,6",54395,nancy
+Employés,"11,5","11,5","11,6",54395,nancy
+Ouvriers,"11,5","10,1","11,8",54395,nancy
+Ensemble,"14,1","13,4","14,6",54547,vandoeuvre-les-nancy
+Cadres*,"24,5","23,4","25,0",54547,vandoeuvre-les-nancy
+Professions intermédiaires,"15,2","14,9","15,4",54547,vandoeuvre-les-nancy
+Employés,"11,4","11,4","11,3",54547,vandoeuvre-les-nancy
+Ouvriers,"11,0","9,3","11,5",54547,vandoeuvre-les-nancy
+Ensemble,"13,8","12,7","14,5",56098,lanester
+Cadres*,"23,2","20,9","24,0",56098,lanester
+Professions intermédiaires,"15,3","14,7","15,8",56098,lanester
+Employés,"11,6","11,4","11,8",56098,lanester
+Ouvriers,"11,8","10,6","12,1",56098,lanester
+Ensemble,"14,5","13,4","15,2",56121,lorient
+Cadres*,"24,8","22,3","26,0",56121,lorient
+Professions intermédiaires,"16,1","14,7","17,2",56121,lorient
+Employés,"11,4","11,4","11,6",56121,lorient
+Ouvriers,"11,5","10,6","11,8",56121,lorient
+Ensemble,"16,0","14,7","17,0",56260,vannes
+Cadres*,"28,1","23,8","30,8",56260,vannes
+Professions intermédiaires,"15,9","15,3","16,4",56260,vannes
+Employés,"11,7","11,5","12,0",56260,vannes
+Ouvriers,"11,4","10,5","11,6",56260,vannes
+Ensemble,"12,9","12,0","13,5",57227,forbach
+Cadres*,"22,3","20,9","22,9",57227,forbach
+Professions intermédiaires,"14,4","14,0","14,7",57227,forbach
+Employés,"10,8","10,6","11,3",57227,forbach
+Ouvriers,"11,9","10,4","12,1",57227,forbach
+Ensemble,"14,8","13,7","15,6",57463,metz
+Cadres*,"25,4","22,8","26,7",57463,metz
+Professions intermédiaires,"15,8","14,7","16,8",57463,metz
+Employés,"11,3","11,3","11,2",57463,metz
+Ouvriers,"11,5","10,3","11,8",57463,metz
+Ensemble,"15,0","14,0","15,9",57480,montigny-les-metz
+Cadres*,"25,5","23,4","26,9",57480,montigny-les-metz
+Professions intermédiaires,"15,8","15,0","16,5",57480,montigny-les-metz
+Employés,"11,6","11,5","11,6",57480,montigny-les-metz
+Ouvriers,"11,9","10,4","12,2",57480,montigny-les-metz
+Ensemble,"14,0","12,3","15,2",57631,sarreguemines
+Cadres*,"25,6","22,3","27,3",57631,sarreguemines
+Professions intermédiaires,"15,7","14,3","16,8",57631,sarreguemines
+Employés,"10,9","10,7","11,5",57631,sarreguemines
+Ouvriers,"12,2","10,2","12,7",57631,sarreguemines
+Ensemble,"15,2","13,6","16,5",57672,thionville
+Cadres*,"28,5","26,3","29,6",57672,thionville
+Professions intermédiaires,"17,1","15,1","18,8",57672,thionville
+Employés,"11,4","11,4","11,5",57672,thionville
+Ouvriers,"11,6","9,6","12,2",57672,thionville
+Ensemble,"13,7","12,8","14,4",58194,nevers
+Cadres*,"23,7","20,6","25,2",58194,nevers
+Professions intermédiaires,"15,3","14,4","16,1",58194,nevers
+Employés,"11,1","11,2","11,1",58194,nevers
+Ouvriers,"11,3","9,9","11,6",58194,nevers
+Ensemble,"17,2","15,9","18,1",59009,villeneuve-d-ascq
+Cadres*,"26,8","24,5","28,1",59009,villeneuve-d-ascq
+Professions intermédiaires,"15,5","15,0","15,9",59009,villeneuve-d-ascq
+Employés,"11,7","11,7","11,7",59009,villeneuve-d-ascq
+Ouvriers,"11,4","10,1","11,7",59009,villeneuve-d-ascq
+Ensemble,"13,5","12,7","13,9",59017,armentieres
+Cadres*,"23,1","21,1","24,1",59017,armentieres
+Professions intermédiaires,"14,4","13,9","14,9",59017,armentieres
+Employés,"11,3","11,3","11,4",59017,armentieres
+Ouvriers,"11,4","9,8","11,7",59017,armentieres
+Ensemble,"14,0","12,9","14,8",59122,cambrai
+Cadres*,"26,0","22,3","28,0",59122,cambrai
+Professions intermédiaires,"15,7","14,8","16,3",59122,cambrai
+Employés,"11,3","11,1","11,6",59122,cambrai
+Ouvriers,"11,5","9,8","11,9",59122,cambrai
+Ensemble,"14,5","12,6","15,6",59155,coudekerque-branche
+Cadres*,"23,3","20,2","24,6",59155,coudekerque-branche
+Professions intermédiaires,"16,8","14,7","18,2",59155,coudekerque-branche
+Employés,"11,4","11,2","11,7",59155,coudekerque-branche
+Ouvriers,"13,5","10,5","13,9",59155,coudekerque-branche
+Ensemble,"18,4","16,5","19,8",59163,croix
+Cadres*,"28,4","25,0","30,5",59163,croix
+Professions intermédiaires,"15,2","14,9","15,4",59163,croix
+Employés,"12,2","11,9","12,6",59163,croix
+Ouvriers,"11,3","9,8","11,6",59163,croix
+Ensemble,"12,3","11,3","12,7",59172,denain
+Cadres*,"21,1","18,8","22,0",59172,denain
+Professions intermédiaires,"15,0","13,0","16,0",59172,denain
+Employés,"10,8","10,7","11,2",59172,denain
+Ouvriers,"11,5","10,2","11,8",59172,denain
+Ensemble,"14,1","13,0","14,7",59178,douai
+Cadres*,"24,5","21,2","26,2",59178,douai
+Professions intermédiaires,"15,1","14,5","15,6",59178,douai
+Employés,"11,3","11,2","11,6",59178,douai
+Ouvriers,"11,8","10,7","12,1",59178,douai
+Ensemble,"15,4","13,4","16,5",59183,dunkerque
+Cadres*,"27,8","23,0","30,0",59183,dunkerque
+Professions intermédiaires,"16,7","14,8","17,9",59183,dunkerque
+Employés,"11,4","11,3","11,7",59183,dunkerque
+Ouvriers,"12,9","10,4","13,3",59183,dunkerque
+Ensemble,"13,5","11,7","14,3",59271,grande-synthe
+Cadres*,"21,8","18,3","23,1",59271,grande-synthe
+Professions intermédiaires,"15,6","13,6","16,6",59271,grande-synthe
+Employés,"11,2","11,1","11,4",59271,grande-synthe
+Ouvriers,"13,0","9,9","13,4",59271,grande-synthe
+Ensemble,"15,2","13,8","16,2",59279,halluin
+Cadres*,"25,3","22,6","26,6",59279,halluin
+Professions intermédiaires,"15,5","14,6","16,4",59279,halluin
+Employés,"11,9","11,7","12,3",59279,halluin
+Ouvriers,"12,3","10,8","12,7",59279,halluin
+Ensemble,"14,0","12,8","14,8",59295,hazebrouck
+Cadres*,"24,3","21,3","25,8",59295,hazebrouck
+Professions intermédiaires,"15,7","14,5","16,6",59295,hazebrouck
+Employés,"11,4","11,3","11,8",59295,hazebrouck
+Ouvriers,"11,9","9,9","12,2",59295,hazebrouck
+Ensemble,"20,9","18,6","22,7",59328,lambersart
+Cadres*,"29,3","26,1","31,3",59328,lambersart
+Professions intermédiaires,"16,4","16,1","16,9",59328,lambersart
+Employés,"12,4","12,2","12,5",59328,lambersart
+Ouvriers,"11,7","10,4","12,0",59328,lambersart
+Ensemble,"16,5","15,4","17,2",59350,lille
+Cadres*,"24,2","22,2","25,4",59350,lille
+Professions intermédiaires,"15,1","14,3","15,8",59350,lille
+Employés,"11,5","11,4","11,5",59350,lille
+Ouvriers,"11,1","9,9","11,4",59350,lille
+Ensemble,"14,2","13,7","14,5",59360,loos
+Cadres*,"22,2","21,2","22,7",59360,loos
+Professions intermédiaires,"14,8","14,5","15,0",59360,loos
+Employés,"11,3","11,3","11,4",59360,loos
+Ouvriers,"11,7","10,3","12,0",59360,loos
+Ensemble,"19,5","17,5","21,0",59368,la-madeleine
+Cadres*,"26,7","24,3","28,2",59368,la-madeleine
+Professions intermédiaires,"16,9","15,1","18,9",59368,la-madeleine
+Employés,"12,2","12,0","12,3",59368,la-madeleine
+Ouvriers,"11,7","10,8","11,9",59368,la-madeleine
+Ensemble,"23,4","19,7","26,3",59378,marcq-en-baroeul
+Cadres*,"32,3","27,1","35,7",59378,marcq-en-baroeul
+Professions intermédiaires,"17,9","15,6","20,7",59378,marcq-en-baroeul
+Employés,"12,5","12,3","12,8",59378,marcq-en-baroeul
+Ouvriers,"11,9","10,3","12,2",59378,marcq-en-baroeul
+Ensemble,"13,3","12,3","13,8",59392,maubeuge
+Cadres*,"23,8","22,0","24,5",59392,maubeuge
+Professions intermédiaires,"15,1","14,0","15,8",59392,maubeuge
+Employés,"11,2","11,1","11,2",59392,maubeuge
+Ouvriers,"12,1","10,4","12,4",59392,maubeuge
+Ensemble,"15,2","14,6","15,7",59410,mons-en-baroeul
+Cadres*,"23,5","22,3","24,2",59410,mons-en-baroeul
+Professions intermédiaires,"14,9","14,3","15,4",59410,mons-en-baroeul
+Employés,"11,6","11,6","11,7",59410,mons-en-baroeul
+Ouvriers,"11,4","10,1","11,8",59410,mons-en-baroeul
+Ensemble,"13,4","12,8","13,7",59512,roubaix
+Cadres*,"24,6","22,7","25,6",59512,roubaix
+Professions intermédiaires,"13,9","13,6","14,2",59512,roubaix
+Employés,"11,0","11,0","11,0",59512,roubaix
+Ouvriers,"11,0","9,9","11,3",59512,roubaix
+Ensemble,"13,9","13,2","14,5",59599,tourcoing
+Cadres*,"23,5","21,6","24,7",59599,tourcoing
+Professions intermédiaires,"14,5","14,0","15,0",59599,tourcoing
+Employés,"11,5","11,4","11,7",59599,tourcoing
+Ouvriers,"11,4","10,3","11,7",59599,tourcoing
+Ensemble,"15,6","14,1","16,5",59606,valenciennes
+Cadres*,"25,8","22,6","27,3",59606,valenciennes
+Professions intermédiaires,"15,6","14,7","16,3",59606,valenciennes
+Employés,"11,5","11,4","11,6",59606,valenciennes
+Ouvriers,"11,7","10,3","11,9",59606,valenciennes
+Ensemble,"19,5","17,3","21,4",59646,wasquehal
+Cadres*,"28,3","24,4","30,8",59646,wasquehal
+Professions intermédiaires,"15,9","15,3","16,6",59646,wasquehal
+Employés,"12,4","12,3","12,6",59646,wasquehal
+Ouvriers,"12,0","10,6","12,3",59646,wasquehal
+Ensemble,"13,4","12,6","14,0",59650,wattrelos
+Cadres*,"21,9","19,9","23,0",59650,wattrelos
+Professions intermédiaires,"14,9","14,0","15,6",59650,wattrelos
+Employés,"11,5","11,4","11,6",59650,wattrelos
+Ouvriers,"11,7","10,5","12,1",59650,wattrelos
+Ensemble,"14,3","13,3","15,0",60057,beauvais
+Cadres*,"24,9","22,4","26,2",60057,beauvais
+Professions intermédiaires,"15,1","14,3","15,8",60057,beauvais
+Employés,"11,5","11,5","11,5",60057,beauvais
+Ouvriers,"12,0","10,7","12,4",60057,beauvais
+Ensemble,"17,8","15,7","19,2",60159,compiegne
+Cadres*,"31,3","26,1","33,9",60159,compiegne
+Professions intermédiaires,"16,9","16,4","17,3",60159,compiegne
+Employés,"11,9","11,9","11,9",60159,compiegne
+Ouvriers,"12,2","10,7","12,6",60159,compiegne
+Ensemble,"13,0","12,6","13,2",60175,creil
+Cadres*,"22,2","21,7","22,4",60175,creil
+Professions intermédiaires,"15,2","14,8","15,4",60175,creil
+Employés,"11,5","11,5","11,4",60175,creil
+Ouvriers,"11,6","10,6","11,9",60175,creil
+Ensemble,"14,0","13,5","14,3",60463,nogent-sur-oise
+Cadres*,"23,4","23,0","23,7",60463,nogent-sur-oise
+Professions intermédiaires,"16,2","15,5","16,7",60463,nogent-sur-oise
+Employés,"11,8","11,8","11,8",60463,nogent-sur-oise
+Ouvriers,"12,1","10,8","12,3",60463,nogent-sur-oise
+Ensemble,"13,2","12,7","13,7",61001,alencon
+Cadres*,"24,0","20,9","25,8",61001,alencon
+Professions intermédiaires,"14,5","14,1","14,9",61001,alencon
+Employés,"11,2","11,2","11,1",61001,alencon
+Ouvriers,"11,0","10,2","11,2",61001,alencon
+Ensemble,"15,6","14,2","16,6",62041,arras
+Cadres*,"26,9","23,8","28,5",62041,arras
+Professions intermédiaires,"16,9","14,5","18,9",62041,arras
+Employés,"11,5","11,4","11,6",62041,arras
+Ouvriers,"11,4","9,9","11,7",62041,arras
+Ensemble,"14,8","13,8","15,4",62119,bethune
+Cadres*,"26,2","23,6","27,5",62119,bethune
+Professions intermédiaires,"15,9","15,0","16,6",62119,bethune
+Employés,"11,4","11,4","11,6",62119,bethune
+Ouvriers,"11,9","10,5","12,1",62119,bethune
+Ensemble,"12,9","12,1","13,4",62160,boulogne-sur-mer
+Cadres*,"23,2","20,4","24,6",62160,boulogne-sur-mer
+Professions intermédiaires,"14,9","14,2","15,4",62160,boulogne-sur-mer
+Employés,"11,2","11,0","11,5",62160,boulogne-sur-mer
+Ouvriers,"11,4","10,4","11,7",62160,boulogne-sur-mer
+Ensemble,"12,8","11,8","13,4",62178,bruay-la-buissiere
+Cadres*,"24,5","21,9","25,3",62178,bruay-la-buissiere
+Professions intermédiaires,"15,0","14,0","15,7",62178,bruay-la-buissiere
+Employés,"10,9","10,7","11,2",62178,bruay-la-buissiere
+Ouvriers,"11,8","10,4","12,1",62178,bruay-la-buissiere
+Ensemble,"13,6","12,3","14,4",62193,calais
+Cadres*,"22,8","20,0","24,3",62193,calais
+Professions intermédiaires,"15,9","13,9","17,0",62193,calais
+Employés,"11,4","11,2","11,8",62193,calais
+Ouvriers,"12,8","10,8","13,1",62193,calais
+Ensemble,"13,8","12,8","14,4",62427,henin-beaumont
+Cadres*,"23,7","21,2","24,8",62427,henin-beaumont
+Professions intermédiaires,"15,3","14,5","15,9",62427,henin-beaumont
+Employés,"11,3","11,1","11,8",62427,henin-beaumont
+Ouvriers,"12,0","10,8","12,2",62427,henin-beaumont
+Ensemble,"13,0","12,2","13,4",62498,lens
+Cadres*,"22,2","20,5","23,0",62498,lens
+Professions intermédiaires,"15,0","14,2","15,5",62498,lens
+Employés,"11,0","10,9","11,2",62498,lens
+Ouvriers,"11,6","10,2","11,8",62498,lens
+Ensemble,"13,1","12,1","13,7",62510,lievin
+Cadres*,"22,5","19,4","23,8",62510,lievin
+Professions intermédiaires,"15,1","14,1","15,7",62510,lievin
+Employés,"11,2","11,0","11,6",62510,lievin
+Ouvriers,"12,0","10,6","12,3",62510,lievin
+Ensemble,"15,6","14,4","16,3",63113,clermont-ferrand
+Cadres*,"26,9","24,0","28,6",63113,clermont-ferrand
+Professions intermédiaires,"15,8","14,7","16,8",63113,clermont-ferrand
+Employés,"11,4","11,4","11,4",63113,clermont-ferrand
+Ouvriers,"11,5","10,3","11,8",63113,clermont-ferrand
+Ensemble,"15,8","14,6","16,6",63124,cournon-d-auvergne
+Cadres*,"25,3","23,9","26,1",63124,cournon-d-auvergne
+Professions intermédiaires,"16,3","15,3","17,2",63124,cournon-d-auvergne
+Employés,"12,0","11,8","12,3",63124,cournon-d-auvergne
+Ouvriers,"12,3","11,3","12,6",63124,cournon-d-auvergne
+Ensemble,"16,8","15,1","18,2",64024,anglet
+Cadres*,"28,6","24,8","30,9",64024,anglet
+Professions intermédiaires,"16,3","15,4","17,1",64024,anglet
+Employés,"12,3","12,1","12,6",64024,anglet
+Ouvriers,"12,2","10,9","12,4",64024,anglet
+Ensemble,"14,6","13,7","15,3",64102,bayonne
+Cadres*,"24,4","21,9","26,0",64102,bayonne
+Professions intermédiaires,"15,7","14,9","16,5",64102,bayonne
+Employés,"11,8","11,7","12,0",64102,bayonne
+Ouvriers,"11,9","10,7","12,1",64102,bayonne
+Ensemble,"18,5","15,7","20,8",64122,biarritz
+Cadres*,"32,6","25,3","37,2",64122,biarritz
+Professions intermédiaires,"16,4","15,5","17,2",64122,biarritz
+Employés,"12,5","12,3","12,7",64122,biarritz
+Ouvriers,"11,9","10,4","12,2",64122,biarritz
+Ensemble,"15,6","14,2","16,7",64445,pau
+Cadres*,"28,0","24,3","30,0",64445,pau
+Professions intermédiaires,"15,7","14,9","16,5",64445,pau
+Employés,"11,4","11,3","11,5",64445,pau
+Ouvriers,"11,5","10,0","11,9",64445,pau
+Ensemble,"13,0","12,4","13,4",65440,tarbes
+Cadres*,"22,6","20,1","24,0",65440,tarbes
+Professions intermédiaires,"14,3","14,0","14,6",65440,tarbes
+Employés,"11,1","11,1","11,0",65440,tarbes
+Ouvriers,"11,2","9,9","11,4",65440,tarbes
+Ensemble,"13,6","13,1","13,9",66136,perpignan
+Cadres*,"24,5","22,8","25,6",66136,perpignan
+Professions intermédiaires,"14,9","14,4","15,4",66136,perpignan
+Employés,"11,4","11,3","11,5",66136,perpignan
+Ouvriers,"11,3","10,2","11,5",66136,perpignan
+Ensemble,"15,2","13,7","16,2",67180,haguenau
+Cadres*,"26,0","23,2","27,4",67180,haguenau
+Professions intermédiaires,"16,0","15,3","16,7",67180,haguenau
+Employés,"11,7","11,6","12,0",67180,haguenau
+Ouvriers,"12,8","11,3","13,2",67180,haguenau
+Ensemble,"16,4","15,3","17,2",67218,illkirch-graffenstaden
+Cadres*,"25,4","23,7","26,5",67218,illkirch-graffenstaden
+Professions intermédiaires,"16,4","15,3","17,4",67218,illkirch-graffenstaden
+Employés,"12,1","12,0","12,2",67218,illkirch-graffenstaden
+Ouvriers,"12,3","11,4","12,5",67218,illkirch-graffenstaden
+Ensemble,"15,2","14,3","15,9",67267,lingolsheim
+Cadres*,"24,5","23,1","25,3",67267,lingolsheim
+Professions intermédiaires,"15,9","15,2","16,5",67267,lingolsheim
+Employés,"11,9","11,8","12,1",67267,lingolsheim
+Ouvriers,"12,4","11,0","12,7",67267,lingolsheim
+Ensemble,"14,7","13,9","15,2",67447,schiltigheim
+Cadres*,"22,5","21,4","23,2",67447,schiltigheim
+Professions intermédiaires,"15,4","15,0","15,8",67447,schiltigheim
+Employés,"11,5","11,5","11,7",67447,schiltigheim
+Ouvriers,"11,7","10,4","12,0",67447,schiltigheim
+Ensemble,"15,6","14,6","16,3",67482,strasbourg
+Cadres*,"25,7","23,4","27,1",67482,strasbourg
+Professions intermédiaires,"15,9","14,9","16,8",67482,strasbourg
+Employés,"11,6","11,6","11,7",67482,strasbourg
+Ouvriers,"11,7","10,6","11,9",67482,strasbourg
+Ensemble,"15,1","13,6","16,1",68066,colmar
+Cadres*,"27,9","23,8","30,0",68066,colmar
+Professions intermédiaires,"15,9","15,1","16,7",68066,colmar
+Employés,"11,5","11,4","11,8",68066,colmar
+Ouvriers,"12,2","10,4","12,7",68066,colmar
+Ensemble,"13,4","12,6","13,9",68224,mulhouse
+Cadres*,"23,6","21,9","24,5",68224,mulhouse
+Professions intermédiaires,"14,9","14,3","15,3",68224,mulhouse
+Employés,"11,2","11,2","11,2",68224,mulhouse
+Ouvriers,"11,8","10,3","12,1",68224,mulhouse
+Ensemble,"13,8","12,7","14,8",68297,saint-louis
+Cadres*,"25,7","25,5","25,9",68297,saint-louis
+Professions intermédiaires,"15,6","14,2","16,7",68297,saint-louis
+Employés,"11,3","11,3","11,3",68297,saint-louis
+Ouvriers,"12,1","10,9","12,5",68297,saint-louis
+Ensemble,"16,2","15,4","16,7",69029,bron
+Cadres*,"25,9","24,5","26,6",69029,bron
+Professions intermédiaires,"16,0","15,6","16,4",69029,bron
+Employés,"12,2","12,1","12,3",69029,bron
+Ouvriers,"12,2","11,0","12,5",69029,bron
+Ensemble,"20,8","18,8","22,4",69034,caluire-et-cuire
+Cadres*,"30,8","27,8","32,8",69034,caluire-et-cuire
+Professions intermédiaires,"17,6","16,4","18,8",69034,caluire-et-cuire
+Employés,"12,8","12,7","13,0",69034,caluire-et-cuire
+Ouvriers,"12,2","11,0","12,5",69034,caluire-et-cuire
+Ensemble,"13,8","13,0","14,3",69091,givors
+Cadres*,"23,2","21,8","23,9",69091,givors
+Professions intermédiaires,"15,8","14,7","16,5",69091,givors
+Employés,"11,6","11,6","11,8",69091,givors
+Ouvriers,"12,4","11,2","12,6",69091,givors
+Ensemble,"19,2","17,4","20,6",69123,lyon
+Cadres*,"27,6","24,8","29,5",69123,lyon
+Professions intermédiaires,"16,2","15,5","17,0",69123,lyon
+Employés,"12,3","12,2","12,4",69123,lyon
+Ouvriers,"11,9","10,7","12,2",69123,lyon
+Ensemble,"16,4","15,4","17,1",69149,oullins-pierre-benite
+Cadres*,"25,0","23,6","25,8",69149,oullins-pierre-benite
+Professions intermédiaires,"15,8","15,1","16,4",69149,oullins-pierre-benite
+Employés,"12,2","12,1","12,3",69149,oullins-pierre-benite
+Ouvriers,"12,6","11,5","12,8",69149,oullins-pierre-benite
+Ensemble,"22,6","19,1","25,4",69202,sainte-foy-les-lyon
+Cadres*,"35,1","28,7","39,0",69202,sainte-foy-les-lyon
+Professions intermédiaires,"17,6","16,8","18,3",69202,sainte-foy-les-lyon
+Employés,"13,0","12,7","13,5",69202,sainte-foy-les-lyon
+Ouvriers,"12,2","10,3","12,6",69202,sainte-foy-les-lyon
+Ensemble,"20,6","17,8","22,5",69204,saint-genis-laval
+Cadres*,"32,2","27,1","34,9",69204,saint-genis-laval
+Professions intermédiaires,"17,4","16,7","18,1",69204,saint-genis-laval
+Employés,"12,5","12,4","12,8",69204,saint-genis-laval
+Ouvriers,"12,6","11,5","12,8",69204,saint-genis-laval
+Ensemble,"21,8","18,9","24,4",69244,tassin-la-demi-lune
+Cadres*,"31,5","26,6","34,9",69244,tassin-la-demi-lune
+Professions intermédiaires,"17,2","16,4","18,0",69244,tassin-la-demi-lune
+Employés,"13,3","13,0","13,9",69244,tassin-la-demi-lune
+Ouvriers,"12,5","11,3","12,7",69244,tassin-la-demi-lune
+Ensemble,"13,5","12,8","14,0",69256,vaulx-en-velin
+Cadres*,"21,0","20,4","21,3",69256,vaulx-en-velin
+Professions intermédiaires,"15,1","14,4","15,7",69256,vaulx-en-velin
+Employés,"11,6","11,6","11,6",69256,vaulx-en-velin
+Ouvriers,"12,1","10,6","12,4",69256,vaulx-en-velin
+Ensemble,"13,5","13,0","13,9",69259,venissieux
+Cadres*,"21,1","20,2","21,5",69259,venissieux
+Professions intermédiaires,"15,2","14,5","15,7",69259,venissieux
+Employés,"11,7","11,7","11,6",69259,venissieux
+Ouvriers,"12,1","10,8","12,3",69259,venissieux
+Ensemble,"14,6","13,6","15,2",69264,villefranche-sur-saone
+Cadres*,"24,4","22,7","25,2",69264,villefranche-sur-saone
+Professions intermédiaires,"15,6","14,8","16,2",69264,villefranche-sur-saone
+Employés,"11,8","11,7","12,0",69264,villefranche-sur-saone
+Ouvriers,"12,1","10,5","12,5",69264,villefranche-sur-saone
+Ensemble,"16,0","15,1","16,6",69266,villeurbanne
+Cadres*,"22,6","21,4","23,3",69266,villeurbanne
+Professions intermédiaires,"15,5","15,1","15,9",69266,villeurbanne
+Employés,"12,1","12,1","12,2",69266,villeurbanne
+Ouvriers,"12,0","10,8","12,3",69266,villeurbanne
+Ensemble,"17,1","14,6","18,8",69275,decines-charpieu
+Cadres*,"24,3","22,5","25,2",69275,decines-charpieu
+Professions intermédiaires,"22,9","15,7","28,3",69275,decines-charpieu
+Employés,"12,4","12,3","12,5",69275,decines-charpieu
+Ouvriers,"12,8","11,6","13,1",69275,decines-charpieu
+Ensemble,"17,3","15,8","18,3",69282,meyzieu
+Cadres*,"26,7","24,0","28,1",69282,meyzieu
+Professions intermédiaires,"17,2","16,4","17,9",69282,meyzieu
+Employés,"12,7","12,6","13,0",69282,meyzieu
+Ouvriers,"13,0","11,7","13,2",69282,meyzieu
+Ensemble,"15,8","14,7","16,6",69286,rillieux-la-pape
+Cadres*,"28,3","25,4","30,2",69286,rillieux-la-pape
+Professions intermédiaires,"16,0","15,3","16,7",69286,rillieux-la-pape
+Employés,"11,8","11,8","11,9",69286,rillieux-la-pape
+Ouvriers,"12,1","10,8","12,4",69286,rillieux-la-pape
+Ensemble,"15,7","14,5","16,6",69290,saint-priest
+Cadres*,"24,7","22,5","25,9",69290,saint-priest
+Professions intermédiaires,"16,7","15,3","17,9",69290,saint-priest
+Employés,"12,3","12,2","12,6",69290,saint-priest
+Ouvriers,"12,7","11,4","12,9",69290,saint-priest
+Ensemble,"14,1","13,0","14,8",71076,chalon-sur-saone
+Cadres*,"25,2","22,6","26,5",71076,chalon-sur-saone
+Professions intermédiaires,"15,8","14,9","16,6",71076,chalon-sur-saone
+Employés,"11,3","11,2","11,5",71076,chalon-sur-saone
+Ouvriers,"11,9","10,7","12,2",71076,chalon-sur-saone
+Ensemble,"14,8","13,2","15,8",71153,le-creusot
+Cadres*,"24,8","22,6","25,7",71153,le-creusot
+Professions intermédiaires,"16,4","15,0","17,3",71153,le-creusot
+Employés,"11,4","11,5","11,3",71153,le-creusot
+Ouvriers,"12,8","10,6","13,3",71153,le-creusot
+Ensemble,"13,8","12,9","14,4",71270,macon
+Cadres*,"25,3","21,8","27,2",71270,macon
+Professions intermédiaires,"15,2","14,7","15,6",71270,macon
+Employés,"11,5","11,4","11,7",71270,macon
+Ouvriers,"11,6","10,3","11,9",71270,macon
+Ensemble,"15,4","14,3","16,1",72181,le-mans
+Cadres*,"26,0","23,3","27,5",72181,le-mans
+Professions intermédiaires,"15,6","15,0","16,2",72181,le-mans
+Employés,"11,7","11,7","11,8",72181,le-mans
+Ouvriers,"11,7","10,6","12,0",72181,le-mans
+Ensemble,"16,7","15,0","17,9",73008,aix-les-bains
+Cadres*,"28,0","24,9","29,5",73008,aix-les-bains
+Professions intermédiaires,"16,6","15,7","17,3",73008,aix-les-bains
+Employés,"12,1","11,8","12,6",73008,aix-les-bains
+Ouvriers,"12,7","11,3","13,0",73008,aix-les-bains
+Ensemble,"15,4","14,1","16,1",73065,chambery
+Cadres*,"25,3","22,5","26,6",73065,chambery
+Professions intermédiaires,"15,8","14,9","16,5",73065,chambery
+Employés,"11,8","11,7","12,0",73065,chambery
+Ouvriers,"12,2","10,4","12,5",73065,chambery
+Ensemble,"16,9","15,5","17,9",74010,annecy
+Cadres*,"27,7","24,2","29,9",74010,annecy
+Professions intermédiaires,"16,4","15,7","17,1",74010,annecy
+Employés,"12,4","12,4","12,4",74010,annecy
+Ouvriers,"12,7","11,4","13,0",74010,annecy
+Ensemble,"12,9","12,2","13,4",74012,annemasse
+Cadres*,"22,3","21,6","22,7",74012,annemasse
+Professions intermédiaires,"15,4","14,5","16,2",74012,annemasse
+Employés,"11,2","11,2","11,3",74012,annemasse
+Ouvriers,"12,1","10,6","12,5",74012,annemasse
+Ensemble,"14,5","13,4","15,3",74281,thonon-les-bains
+Cadres*,"24,2","22,1","25,4",74281,thonon-les-bains
+Professions intermédiaires,"16,2","15,3","17,0",74281,thonon-les-bains
+Employés,"11,9","11,8","12,0",74281,thonon-les-bains
+Ouvriers,"13,4","11,6","13,8",74281,thonon-les-bains
+Ensemble,"27,9","24,9","30,3",75056,paris
+Cadres*,"39,1","33,4","43,8",75056,paris
+Professions intermédiaires,"20,7","18,2","23,7",75056,paris
+Employés,"13,2","13,4","13,0",75056,paris
+Ouvriers,"11,8","11,8","11,8",75056,paris
+Ensemble,"13,8","12,9","14,4",76217,dieppe
+Cadres*,"26,5","23,6","28,0",76217,dieppe
+Professions intermédiaires,"15,7","14,4","16,5",76217,dieppe
+Employés,"11,2","11,1","11,3",76217,dieppe
+Ouvriers,"11,7","10,6","12,0",76217,dieppe
+Ensemble,"13,9","13,0","14,7",76322,le-grand-quevilly
+Cadres*,"22,7","20,8","23,7",76322,le-grand-quevilly
+Professions intermédiaires,"15,6","14,4","16,7",76322,le-grand-quevilly
+Employés,"11,8","11,7","12,0",76322,le-grand-quevilly
+Ouvriers,"12,6","11,3","12,9",76322,le-grand-quevilly
+Ensemble,"15,7","14,0","16,8",76351,le-havre
+Cadres*,"27,4","23,4","29,5",76351,le-havre
+Professions intermédiaires,"16,7","15,5","17,6",76351,le-havre
+Employés,"12,0","11,8","12,4",76351,le-havre
+Ouvriers,"13,6","10,8","14,0",76351,le-havre
+Ensemble,"21,1","18,1","23,4",76451,mont-saint-aignan
+Cadres*,"33,1","27,2","36,6",76451,mont-saint-aignan
+Professions intermédiaires,"16,7","16,3","17,2",76451,mont-saint-aignan
+Employés,"12,2","12,3","11,9",76451,mont-saint-aignan
+Ouvriers,"11,9","11,0","12,1",76451,mont-saint-aignan
+Ensemble,"13,8","13,1","14,3",76498,le-petit-quevilly
+Cadres*,"21,6","19,8","22,6",76498,le-petit-quevilly
+Professions intermédiaires,"15,6","14,8","16,3",76498,le-petit-quevilly
+Employés,"11,7","11,6","11,8",76498,le-petit-quevilly
+Ouvriers,"12,3","11,0","12,5",76498,le-petit-quevilly
+Ensemble,"16,2","15,3","16,8",76540,rouen
+Cadres*,"25,4","23,4","26,5",76540,rouen
+Professions intermédiaires,"15,6","15,1","16,0",76540,rouen
+Employés,"11,6","11,7","11,6",76540,rouen
+Ouvriers,"11,7","10,4","11,9",76540,rouen
+Ensemble,"14,0","13,2","14,4",76575,saint-etienne-du-rouvray
+Cadres*,"22,2","21,1","22,7",76575,saint-etienne-du-rouvray
+Professions intermédiaires,"15,7","14,8","16,5",76575,saint-etienne-du-rouvray
+Employés,"11,5","11,5","11,6",76575,saint-etienne-du-rouvray
+Ouvriers,"12,6","11,0","12,8",76575,saint-etienne-du-rouvray
+Ensemble,"14,9","14,3","15,4",76681,sotteville-les-rouen
+Cadres*,"23,9","22,7","24,7",76681,sotteville-les-rouen
+Professions intermédiaires,"15,9","15,4","16,4",76681,sotteville-les-rouen
+Employés,"12,0","12,0","12,0",76681,sotteville-les-rouen
+Ouvriers,"12,2","10,4","12,5",76681,sotteville-les-rouen
+Ensemble,"20,2","18,0","21,9",77058,bussy-saint-georges
+Cadres*,"28,6","25,5","30,5",77058,bussy-saint-georges
+Professions intermédiaires,"17,6","16,9","18,2",77058,bussy-saint-georges
+Employés,"13,6","13,5","13,8",77058,bussy-saint-georges
+Ouvriers,"13,0","11,6","13,4",77058,bussy-saint-georges
+Ensemble,"17,8","16,8","18,5",77083,champs-sur-marne
+Cadres*,"26,3","24,4","27,4",77083,champs-sur-marne
+Professions intermédiaires,"16,8","16,5","16,9",77083,champs-sur-marne
+Employés,"12,7","12,8","12,6",77083,champs-sur-marne
+Ouvriers,"12,8","11,8","13,1",77083,champs-sur-marne
+Ensemble,"17,2","16,5","17,7",77108,chelles
+Cadres*,"26,5","24,6","27,7",77108,chelles
+Professions intermédiaires,"17,4","16,8","18,0",77108,chelles
+Employés,"12,8","12,9","12,6",77108,chelles
+Ouvriers,"12,8","11,1","13,1",77108,chelles
+Ensemble,"16,7","15,7","17,4",77122,combs-la-ville
+Cadres*,"25,4","23,0","26,8",77122,combs-la-ville
+Professions intermédiaires,"16,9","16,3","17,4",77122,combs-la-ville
+Employés,"12,8","12,9","12,6",77122,combs-la-ville
+Ouvriers,"12,9","11,2","13,2",77122,combs-la-ville
+Ensemble,"15,0","14,6","15,2",77152,dammarie-les-lys
+Cadres*,"24,7","23,3","25,6",77152,dammarie-les-lys
+Professions intermédiaires,"16,2","15,7","16,6",77152,dammarie-les-lys
+Employés,"12,1","12,1","12,1",77152,dammarie-les-lys
+Ouvriers,"12,0","10,8","12,3",77152,dammarie-les-lys
+Ensemble,"18,1","16,9","19,0",77243,lagny-sur-marne
+Cadres*,"28,5","25,4","30,6",77243,lagny-sur-marne
+Professions intermédiaires,"17,1","16,8","17,4",77243,lagny-sur-marne
+Employés,"12,9","12,9","12,8",77243,lagny-sur-marne
+Ouvriers,"12,8","11,4","13,2",77243,lagny-sur-marne
+Ensemble,"14,7","14,0","15,1",77284,meaux
+Cadres*,"24,6","23,0","25,6",77284,meaux
+Professions intermédiaires,"16,2","15,6","16,7",77284,meaux
+Employés,"12,1","12,1","12,0",77284,meaux
+Ouvriers,"12,3","10,7","12,7",77284,meaux
+Ensemble,"13,9","13,3","14,3",77285,le-mee-sur-seine
+Cadres*,"23,1","21,8","23,8",77285,le-mee-sur-seine
+Professions intermédiaires,"16,0","15,3","16,6",77285,le-mee-sur-seine
+Employés,"11,9","11,9","12,0",77285,le-mee-sur-seine
+Ouvriers,"12,0","10,7","12,3",77285,le-mee-sur-seine
+Ensemble,"14,4","14,0","14,7",77288,melun
+Cadres*,"23,8","22,4","24,5",77288,melun
+Professions intermédiaires,"15,5","15,2","15,7",77288,melun
+Employés,"11,8","11,8","11,8",77288,melun
+Ouvriers,"11,8","10,5","12,1",77288,melun
+Ensemble,"16,2","15,6","16,6",77294,mitry-mory
+Cadres*,"24,8","23,1","26,0",77294,mitry-mory
+Professions intermédiaires,"17,0","16,6","17,4",77294,mitry-mory
+Employés,"12,9","12,8","12,9",77294,mitry-mory
+Ouvriers,"13,6","11,6","13,9",77294,mitry-mory
+Ensemble,"13,3","12,6","13,7",77305,montereau-fault-yonne
+Cadres*,"22,2","21,5","22,5",77305,montereau-fault-yonne
+Professions intermédiaires,"15,5","14,6","16,2",77305,montereau-fault-yonne
+Employés,"11,4","11,4","11,4",77305,montereau-fault-yonne
+Ouvriers,"12,4","10,7","12,7",77305,montereau-fault-yonne
+Ensemble,"19,0","17,6","20,1",77350,ozoir-la-ferriere
+Cadres*,"29,4","26,3","31,4",77350,ozoir-la-ferriere
+Professions intermédiaires,"17,9","17,2","18,6",77350,ozoir-la-ferriere
+Employés,"13,4","13,4","13,4",77350,ozoir-la-ferriere
+Ouvriers,"13,2","11,1","13,6",77350,ozoir-la-ferriere
+Ensemble,"17,7","16,5","18,5",77373,pontault-combault
+Cadres*,"27,2","24,5","29,1",77373,pontault-combault
+Professions intermédiaires,"17,5","16,8","18,1",77373,pontault-combault
+Employés,"13,1","13,0","13,1",77373,pontault-combault
+Ouvriers,"13,4","11,6","13,7",77373,pontault-combault
+Ensemble,"16,6","15,9","17,1",77390,roissy-en-brie
+Cadres*,"25,0","23,3","26,1",77390,roissy-en-brie
+Professions intermédiaires,"17,2","16,8","17,6",77390,roissy-en-brie
+Employés,"12,9","12,9","12,8",77390,roissy-en-brie
+Ouvriers,"13,0","11,5","13,3",77390,roissy-en-brie
+Ensemble,"15,5","14,6","16,1",77445,savigny-le-temple
+Cadres*,"24,8","22,4","26,2",77445,savigny-le-temple
+Professions intermédiaires,"16,7","15,9","17,3",77445,savigny-le-temple
+Employés,"12,4","12,4","12,4",77445,savigny-le-temple
+Ouvriers,"12,6","11,1","13,0",77445,savigny-le-temple
+Ensemble,"16,1","15,6","16,4",77468,torcy
+Cadres*,"24,7","23,2","25,6",77468,torcy
+Professions intermédiaires,"16,7","16,2","17,0",77468,torcy
+Employés,"12,6","12,7","12,3",77468,torcy
+Ouvriers,"12,5","11,5","12,8",77468,torcy
+Ensemble,"15,9","15,1","16,4",77514,villeparisis
+Cadres*,"24,3","22,5","25,3",77514,villeparisis
+Professions intermédiaires,"17,2","16,4","17,7",77514,villeparisis
+Employés,"12,9","13,0","12,8",77514,villeparisis
+Ouvriers,"13,1","11,2","13,4",77514,villeparisis
+Ensemble,"18,2","17,0","19,1",78005,acheres
+Cadres*,"26,9","24,7","28,2",78005,acheres
+Professions intermédiaires,"17,0","16,5","17,5",78005,acheres
+Employés,"12,5","12,6","12,4",78005,acheres
+Ouvriers,"12,9","11,6","13,2",78005,acheres
+Ensemble,"29,7","24,8","33,5",78126,la-celle-saint-cloud
+Cadres*,"44,1","35,4","50,1",78126,la-celle-saint-cloud
+Professions intermédiaires,"19,7","19,4","19,9",78126,la-celle-saint-cloud
+Employés,"13,0","13,3","12,5",78126,la-celle-saint-cloud
+Ouvriers,"12,6","11,0","12,9",78126,la-celle-saint-cloud
+Ensemble,"30,0","26,0","33,3",78146,chatou
+Cadres*,"39,9","34,1","44,1",78146,chatou
+Professions intermédiaires,"19,7","19,4","20,2",78146,chatou
+Employés,"14,0","14,4","13,6",78146,chatou
+Ouvriers,"13,2","12,2","13,4",78146,chatou
+Ensemble,"29,4","23,4","34,0",78158,le-chesnay-rocquencourt
+Cadres*,"40,8","32,1","46,0",78158,le-chesnay-rocquencourt
+Professions intermédiaires,"18,7","18,2","19,2",78158,le-chesnay-rocquencourt
+Employés,"13,7","13,7","13,8",78158,le-chesnay-rocquencourt
+Ouvriers,"12,9","11,4","13,1",78158,le-chesnay-rocquencourt
+Ensemble,"20,6","18,9","21,9",78172,conflans-sainte-honorine
+Cadres*,"29,1","26,3","31,0",78172,conflans-sainte-honorine
+Professions intermédiaires,"19,6","17,3","21,8",78172,conflans-sainte-honorine
+Employés,"13,1","13,2","12,8",78172,conflans-sainte-honorine
+Ouvriers,"13,1","11,7","13,4",78172,conflans-sainte-honorine
+Ensemble,"19,0","17,6","20,0",78208,elancourt
+Cadres*,"27,4","24,9","28,7",78208,elancourt
+Professions intermédiaires,"17,7","17,1","18,3",78208,elancourt
+Employés,"12,9","12,9","12,8",78208,elancourt
+Ouvriers,"12,8","11,4","13,1",78208,elancourt
+Ensemble,"20,2","18,7","21,3",78297,guyancourt
+Cadres*,"29,2","26,7","30,6",78297,guyancourt
+Professions intermédiaires,"17,1","16,7","17,4",78297,guyancourt
+Employés,"12,7","13,0","12,2",78297,guyancourt
+Ouvriers,"12,8","11,0","13,0",78297,guyancourt
+Ensemble,"23,7","22,2","24,8",78311,houilles
+Cadres*,"30,8","28,6","32,4",78311,houilles
+Professions intermédiaires,"18,4","18,2","18,6",78311,houilles
+Employés,"13,7","13,7","13,7",78311,houilles
+Ouvriers,"13,2","12,1","13,4",78311,houilles
+Ensemble,"33,4","27,8","38,1",78358,maisons-laffitte
+Cadres*,"42,2","35,3","47,1",78358,maisons-laffitte
+Professions intermédiaires,"19,8","19,0","21,0",78358,maisons-laffitte
+Employés,"14,7","14,2","15,5",78358,maisons-laffitte
+Ouvriers,"12,9","11,9","13,1",78358,maisons-laffitte
+Ensemble,"14,8","14,6","14,9",78361,mantes-la-jolie
+Cadres*,"24,9","23,3","25,9",78361,mantes-la-jolie
+Professions intermédiaires,"16,1","15,9","16,3",78361,mantes-la-jolie
+Employés,"11,9","12,2","11,4",78361,mantes-la-jolie
+Ouvriers,"12,0","10,2","12,3",78361,mantes-la-jolie
+Ensemble,"15,3","14,7","15,7",78362,mantes-la-ville
+Cadres*,"24,1","22,6","25,1",78362,mantes-la-ville
+Professions intermédiaires,"16,5","16,0","16,9",78362,mantes-la-ville
+Employés,"12,3","12,3","12,3",78362,mantes-la-ville
+Ouvriers,"12,8","10,9","13,1",78362,mantes-la-ville
+Ensemble,"23,0","20,6","24,8",78423,montigny-le-bretonneux
+Cadres*,"29,6","26,6","31,3",78423,montigny-le-bretonneux
+Professions intermédiaires,"18,0","17,4","18,6",78423,montigny-le-bretonneux
+Employés,"13,2","13,4","12,8",78423,montigny-le-bretonneux
+Ouvriers,"12,8","11,5","13,0",78423,montigny-le-bretonneux
+Ensemble,"14,0","13,8","14,1",78440,les-mureaux
+Cadres*,"23,5","22,3","24,1",78440,les-mureaux
+Professions intermédiaires,"16,0","15,6","16,3",78440,les-mureaux
+Employés,"11,6","11,9","11,4",78440,les-mureaux
+Ouvriers,"12,2","10,5","12,5",78440,les-mureaux
+Ensemble,"19,0","17,4","20,0",78490,plaisir
+Cadres*,"28,9","25,1","31,1",78490,plaisir
+Professions intermédiaires,"17,5","17,0","18,0",78490,plaisir
+Employés,"12,7","12,9","12,5",78490,plaisir
+Ouvriers,"12,2","10,8","12,5",78490,plaisir
+Ensemble,"19,5","18,2","20,5",78498,poissy
+Cadres*,"28,4","25,8","30,0",78498,poissy
+Professions intermédiaires,"17,4","17,0","17,8",78498,poissy
+Employés,"12,7","12,8","12,5",78498,poissy
+Ouvriers,"12,4","11,3","12,7",78498,poissy
+Ensemble,"21,3","18,4","23,3",78517,rambouillet
+Cadres*,"30,8","26,1","33,3",78517,rambouillet
+Professions intermédiaires,"17,3","16,6","18,0",78517,rambouillet
+Employés,"12,8","12,7","13,0",78517,rambouillet
+Ouvriers,"12,5","11,2","12,7",78517,rambouillet
+Ensemble,"20,5","18,9","21,6",78545,saint-cyr-l-ecole
+Cadres*,"27,7","25,6","28,9",78545,saint-cyr-l-ecole
+Professions intermédiaires,"17,1","16,7","17,6",78545,saint-cyr-l-ecole
+Employés,"12,6","12,7","12,4",78545,saint-cyr-l-ecole
+Ouvriers,"12,3","11,0","12,6",78545,saint-cyr-l-ecole
+Ensemble,"34,8","26,3","41,3",78551,saint-germain-en-laye
+Cadres*,"47,8","36,5","55,2",78551,saint-germain-en-laye
+Professions intermédiaires,"26,1","18,3","34,9",78551,saint-germain-en-laye
+Employés,"13,7","13,7","13,7",78551,saint-germain-en-laye
+Ouvriers,"12,5","11,5","12,7",78551,saint-germain-en-laye
+Ensemble,"19,7","18,7","20,4",78586,sartrouville
+Cadres*,"28,1","25,9","29,6",78586,sartrouville
+Professions intermédiaires,"17,7","17,5","17,8",78586,sartrouville
+Employés,"12,8","13,0","12,4",78586,sartrouville
+Ouvriers,"13,0","11,6","13,2",78586,sartrouville
+Ensemble,"14,1","13,5","14,4",78621,trappes
+Cadres*,"22,3","20,7","23,0",78621,trappes
+Professions intermédiaires,"15,8","15,3","16,1",78621,trappes
+Employés,"11,7","11,9","11,4",78621,trappes
+Ouvriers,"12,0","10,4","12,4",78621,trappes
+Ensemble,"21,9","20,1","23,3",78640,velizy-villacoublay
+Cadres*,"29,0","26,6","30,6",78640,velizy-villacoublay
+Professions intermédiaires,"17,9","17,9","18,0",78640,velizy-villacoublay
+Employés,"13,6","13,5","13,7",78640,velizy-villacoublay
+Ouvriers,"13,7","12,2","13,9",78640,velizy-villacoublay
+Ensemble,"30,4","24,6","34,6",78646,versailles
+Cadres*,"40,5","32,5","45,5",78646,versailles
+Professions intermédiaires,"18,3","17,5","19,4",78646,versailles
+Employés,"13,3","13,2","13,5",78646,versailles
+Ouvriers,"12,4","11,8","12,5",78646,versailles
+Ensemble,"16,9","16,5","17,2",79191,niort
+Cadres*,"26,1","25,3","26,7",79191,niort
+Professions intermédiaires,"16,1","15,9","16,2",79191,niort
+Employés,"12,7","12,8","12,7",79191,niort
+Ouvriers,"11,4","10,4","11,6",79191,niort
+Ensemble,"13,3","12,5","13,9",80001,abbeville
+Cadres*,"25,1","22,5","26,3",80001,abbeville
+Professions intermédiaires,"15,5","14,4","16,4",80001,abbeville
+Employés,"11,1","11,1","11,2",80001,abbeville
+Ouvriers,"11,6","10,9","11,7",80001,abbeville
+Ensemble,"14,8","13,7","15,5",80021,amiens
+Cadres*,"25,0","22,6","26,3",80021,amiens
+Professions intermédiaires,"15,1","14,6","15,7",80021,amiens
+Employés,"11,2","11,1","11,4",80021,amiens
+Ouvriers,"11,8","10,1","12,2",80021,amiens
+Ensemble,"14,5","13,7","15,2",81004,albi
+Cadres*,"24,9","22,6","26,3",81004,albi
+Professions intermédiaires,"15,3","14,8","15,8",81004,albi
+Employés,"11,5","11,4","11,6",81004,albi
+Ouvriers,"11,1","10,2","11,3",81004,albi
+Ensemble,"14,9","13,5","16,0",81065,castres
+Cadres*,"26,4","23,3","27,9",81065,castres
+Professions intermédiaires,"16,8","15,2","18,3",81065,castres
+Employés,"11,4","11,3","11,6",81065,castres
+Ouvriers,"11,6","10,2","11,9",81065,castres
+Ensemble,"14,9","13,6","15,7",82121,montauban
+Cadres*,"25,5","22,5","27,1",82121,montauban
+Professions intermédiaires,"15,6","14,6","16,5",82121,montauban
+Employés,"11,7","11,6","11,9",82121,montauban
+Ouvriers,"11,7","10,3","12,0",82121,montauban
+Ensemble,"14,0","13,3","14,6",83050,draguignan
+Cadres*,"24,9","22,6","26,2",83050,draguignan
+Professions intermédiaires,"15,6","15,0","16,2",83050,draguignan
+Employés,"11,6","11,5","11,7",83050,draguignan
+Ouvriers,"11,9","10,5","12,1",83050,draguignan
+Ensemble,"14,8","13,7","15,6",83061,frejus
+Cadres*,"25,9","24,0","26,9",83061,frejus
+Professions intermédiaires,"16,4","15,3","17,3",83061,frejus
+Employés,"11,9","11,7","12,3",83061,frejus
+Ouvriers,"12,3","10,8","12,5",83061,frejus
+Ensemble,"15,5","13,8","16,8",83062,la-garde
+Cadres*,"26,4","22,3","28,3",83062,la-garde
+Professions intermédiaires,"15,5","14,8","16,3",83062,la-garde
+Employés,"11,7","11,7","11,8",83062,la-garde
+Ouvriers,"12,1","10,6","12,3",83062,la-garde
+Ensemble,"15,3","14,2","16,2",83069,hyeres
+Cadres*,"26,8","23,6","28,7",83069,hyeres
+Professions intermédiaires,"15,9","15,3","16,5",83069,hyeres
+Employés,"11,8","11,7","12,0",83069,hyeres
+Ouvriers,"12,0","10,8","12,2",83069,hyeres
+Ensemble,"15,8","14,4","17,0",83118,saint-raphael
+Cadres*,"27,9","24,4","29,8",83118,saint-raphael
+Professions intermédiaires,"16,6","16,0","17,2",83118,saint-raphael
+Employés,"12,0","11,9","12,2",83118,saint-raphael
+Ouvriers,"12,3","10,9","12,5",83118,saint-raphael
+Ensemble,"14,4","13,3","15,3",83126,la-seyne-sur-mer
+Cadres*,"24,1","21,6","25,3",83126,la-seyne-sur-mer
+Professions intermédiaires,"15,5","14,7","16,3",83126,la-seyne-sur-mer
+Employés,"11,6","11,4","12,1",83126,la-seyne-sur-mer
+Ouvriers,"12,1","10,3","12,4",83126,la-seyne-sur-mer
+Ensemble,"16,3","14,4","17,9",83129,six-fours-les-plages
+Cadres*,"26,1","22,8","27,7",83129,six-fours-les-plages
+Professions intermédiaires,"16,5","15,4","17,5",83129,six-fours-les-plages
+Employés,"11,9","11,7","12,4",83129,six-fours-les-plages
+Ouvriers,"12,6","10,8","12,8",83129,six-fours-les-plages
+Ensemble,"14,5","13,6","15,3",83137,toulon
+Cadres*,"24,6","22,0","26,1",83137,toulon
+Professions intermédiaires,"15,4","14,8","16,1",83137,toulon
+Employés,"11,5","11,5","11,6",83137,toulon
+Ouvriers,"11,8","10,4","12,0",83137,toulon
+Ensemble,"15,4","13,9","16,7",83144,la-valette-du-var
+Cadres*,"25,5","22,3","27,1",83144,la-valette-du-var
+Professions intermédiaires,"15,9","14,6","17,2",83144,la-valette-du-var
+Employés,"11,8","11,7","12,0",83144,la-valette-du-var
+Ouvriers,"12,5","11,2","12,7",83144,la-valette-du-var
+Ensemble,"13,8","13,2","14,3",84007,avignon
+Cadres*,"23,0","21,5","23,9",84007,avignon
+Professions intermédiaires,"14,9","14,1","15,5",84007,avignon
+Employés,"11,4","11,3","11,6",84007,avignon
+Ouvriers,"11,7","10,5","11,9",84007,avignon
+Ensemble,"13,8","12,9","14,5",84031,carpentras
+Cadres*,"25,3","22,3","26,9",84031,carpentras
+Professions intermédiaires,"15,3","14,4","16,1",84031,carpentras
+Employés,"11,5","11,3","11,8",84031,carpentras
+Ouvriers,"11,8","10,6","12,0",84031,carpentras
+Ensemble,"13,8","12,8","14,4",84035,cavaillon
+Cadres*,"25,1","23,3","25,9",84035,cavaillon
+Professions intermédiaires,"16,2","15,0","17,1",84035,cavaillon
+Employés,"11,5","11,3","11,8",84035,cavaillon
+Ouvriers,"11,6","10,4","12,0",84035,cavaillon
+Ensemble,"14,5","13,2","15,4",84087,orange
+Cadres*,"24,3","21,5","25,9",84087,orange
+Professions intermédiaires,"16,3","15,0","17,2",84087,orange
+Employés,"11,5","11,3","12,1",84087,orange
+Ouvriers,"12,2","10,2","12,6",84087,orange
+Ensemble,"16,2","14,5","17,4",84089,pertuis
+Cadres*,"25,2","22,3","26,5",84089,pertuis
+Professions intermédiaires,"16,1","15,1","16,8",84089,pertuis
+Employés,"11,9","11,9","12,0",84089,pertuis
+Ouvriers,"12,4","10,8","12,6",84089,pertuis
+Ensemble,"14,3","13,1","15,2",85047,challans
+Cadres*,"25,6","22,7","27,1",85047,challans
+Professions intermédiaires,"15,9","14,7","16,8",85047,challans
+Employés,"11,8","11,5","12,5",85047,challans
+Ouvriers,"12,0","11,1","12,3",85047,challans
+Ensemble,"15,4","13,8","16,6",85146,montaigu-vendee
+Cadres*,"26,1","23,5","27,1",85146,montaigu-vendee
+Professions intermédiaires,"15,9","14,6","16,9",85146,montaigu-vendee
+Employés,"12,3","12,0","13,1",85146,montaigu-vendee
+Ouvriers,"12,3","11,5","12,6",85146,montaigu-vendee
+Ensemble,"14,3","13,4","14,9",85191,la-roche-sur-yon
+Cadres*,"24,6","21,5","26,2",85191,la-roche-sur-yon
+Professions intermédiaires,"15,3","14,7","15,8",85191,la-roche-sur-yon
+Employés,"11,7","11,6","11,8",85191,la-roche-sur-yon
+Ouvriers,"11,5","10,8","11,7",85191,la-roche-sur-yon
+Ensemble,"15,6","14,1","16,9",85194,les-sables-d-olonne
+Cadres*,"28,4","23,9","30,8",85194,les-sables-d-olonne
+Professions intermédiaires,"16,1","15,6","16,6",85194,les-sables-d-olonne
+Employés,"11,9","11,7","12,3",85194,les-sables-d-olonne
+Ouvriers,"12,1","11,0","12,3",85194,les-sables-d-olonne
+Ensemble,"14,5","13,3","15,4",86066,chatellerault
+Cadres*,"25,0","21,8","26,6",86066,chatellerault
+Professions intermédiaires,"16,1","15,3","16,7",86066,chatellerault
+Employés,"11,5","11,4","11,7",86066,chatellerault
+Ouvriers,"12,1","11,2","12,4",86066,chatellerault
+Ensemble,"14,1","13,2","14,8",86194,poitiers
+Cadres*,"24,4","21,6","26,0",86194,poitiers
+Professions intermédiaires,"14,7","14,1","15,2",86194,poitiers
+Employés,"11,1","11,1","11,1",86194,poitiers
+Ouvriers,"11,1","10,0","11,3",86194,poitiers
+Ensemble,"14,2","13,6","14,6",87085,limoges
+Cadres*,"23,8","22,0","25,0",87085,limoges
+Professions intermédiaires,"15,1","14,6","15,4",87085,limoges
+Employés,"11,2","11,2","11,3",87085,limoges
+Ouvriers,"11,4","10,3","11,6",87085,limoges
+Ensemble,"14,5","13,4","15,3",88160,epinal
+Cadres*,"24,8","22,0","26,3",88160,epinal
+Professions intermédiaires,"15,4","14,7","16,0",88160,epinal
+Employés,"11,4","11,4","11,5",88160,epinal
+Ouvriers,"11,3","9,6","11,8",88160,epinal
+Ensemble,"14,3","13,1","15,1",89024,auxerre
+Cadres*,"24,8","22,1","26,3",89024,auxerre
+Professions intermédiaires,"17,5","14,9","19,5",89024,auxerre
+Employés,"11,3","11,4","11,3",89024,auxerre
+Ouvriers,"11,6","10,3","11,8",89024,auxerre
+Ensemble,"14,2","13,4","14,7",89387,sens
+Cadres*,"26,2","23,7","27,6",89387,sens
+Professions intermédiaires,"15,6","15,0","16,2",89387,sens
+Employés,"11,4","11,5","11,2",89387,sens
+Ouvriers,"11,9","10,7","12,3",89387,sens
+Ensemble,"15,6","13,9","16,7",90010,belfort
+Cadres*,"27,0","23,8","28,4",90010,belfort
+Professions intermédiaires,"15,3","14,5","16,0",90010,belfort
+Employés,"11,3","11,3","11,4",90010,belfort
+Ouvriers,"11,7","10,3","12,1",90010,belfort
+Ensemble,"16,5","15,8","16,9",91027,athis-mons
+Cadres*,"25,3","23,6","26,4",91027,athis-mons
+Professions intermédiaires,"17,2","16,6","17,7",91027,athis-mons
+Employés,"12,8","12,8","12,7",91027,athis-mons
+Ouvriers,"12,7","11,0","13,1",91027,athis-mons
+Ensemble,"17,2","16,1","17,9",91103,bretigny-sur-orge
+Cadres*,"25,5","23,4","26,7",91103,bretigny-sur-orge
+Professions intermédiaires,"17,2","16,8","17,6",91103,bretigny-sur-orge
+Employés,"12,8","12,9","12,6",91103,bretigny-sur-orge
+Ouvriers,"12,8","11,3","13,2",91103,bretigny-sur-orge
+Ensemble,"20,3","18,8","21,5",91114,brunoy
+Cadres*,"30,9","27,8","32,9",91114,brunoy
+Professions intermédiaires,"17,9","17,6","18,2",91114,brunoy
+Employés,"13,3","13,2","13,5",91114,brunoy
+Ouvriers,"12,8","11,0","13,2",91114,brunoy
+Ensemble,"14,0","13,4","14,3",91174,corbeil-essonnes
+Cadres*,"22,9","21,5","23,6",91174,corbeil-essonnes
+Professions intermédiaires,"15,9","15,5","16,1",91174,corbeil-essonnes
+Employés,"11,8","11,8","11,8",91174,corbeil-essonnes
+Ouvriers,"12,2","10,7","12,5",91174,corbeil-essonnes
+Ensemble,"19,2","17,8","20,1",91201,draveil
+Cadres*,"29,0","26,1","30,9",91201,draveil
+Professions intermédiaires,"17,8","17,3","18,3",91201,draveil
+Employés,"12,9","12,8","13,1",91201,draveil
+Ouvriers,"13,1","11,4","13,4",91201,draveil
+Ensemble,"14,8","14,0","15,2",91223,etampes
+Cadres*,"24,7","22,5","25,7",91223,etampes
+Professions intermédiaires,"16,2","15,8","16,5",91223,etampes
+Employés,"12,0","12,1","12,0",91223,etampes
+Ouvriers,"12,2","10,8","12,5",91223,etampes
+Ensemble,"14,4","13,8","14,7",91228,evry-courcouronnes
+Cadres*,"23,4","21,8","24,2",91228,evry-courcouronnes
+Professions intermédiaires,"15,7","15,3","16,0",91228,evry-courcouronnes
+Employés,"11,8","12,0","11,6",91228,evry-courcouronnes
+Ouvriers,"12,0","10,8","12,3",91228,evry-courcouronnes
+Ensemble,"28,5","24,7","31,0",91272,gif-sur-yvette
+Cadres*,"36,3","32,3","38,5",91272,gif-sur-yvette
+Professions intermédiaires,"18,7","18,2","19,2",91272,gif-sur-yvette
+Employés,"13,5","13,8","13,0",91272,gif-sur-yvette
+Ouvriers,"13,3","12,3","13,4",91272,gif-sur-yvette
+Ensemble,"12,2","12,1","12,2",91286,grigny
+Cadres*,"21,3","22,1","20,9",91286,grigny
+Professions intermédiaires,"14,7","14,4","14,9",91286,grigny
+Employés,"11,1","11,3","10,8",91286,grigny
+Ouvriers,"11,3","10,4","11,5",91286,grigny
+Ensemble,"17,3","16,4","18,0",91345,longjumeau
+Cadres*,"27,0","24,5","28,6",91345,longjumeau
+Professions intermédiaires,"17,2","16,8","17,6",91345,longjumeau
+Employés,"12,6","12,8","12,5",91345,longjumeau
+Ouvriers,"12,7","11,3","13,0",91345,longjumeau
+Ensemble,"19,0","17,9","19,8",91377,massy
+Cadres*,"25,5","23,7","26,6",91377,massy
+Professions intermédiaires,"17,0","16,8","17,2",91377,massy
+Employés,"12,7","12,8","12,5",91377,massy
+Ouvriers,"12,4","11,2","12,6",91377,massy
+Ensemble,"19,0","18,3","19,5",91421,montgeron
+Cadres*,"29,8","28,1","30,9",91421,montgeron
+Professions intermédiaires,"17,7","17,0","18,4",91421,montgeron
+Employés,"12,7","12,7","12,7",91421,montgeron
+Ouvriers,"12,6","10,9","12,9",91421,montgeron
+Ensemble,"17,9","16,7","18,7",91434,morsang-sur-orge
+Cadres*,"27,8","25,2","29,6",91434,morsang-sur-orge
+Professions intermédiaires,"17,5","16,8","18,1",91434,morsang-sur-orge
+Employés,"13,2","13,1","13,5",91434,morsang-sur-orge
+Ouvriers,"13,1","11,2","13,4",91434,morsang-sur-orge
+Ensemble,"21,0","19,7","22,0",91477,palaiseau
+Cadres*,"28,0","26,2","29,1",91477,palaiseau
+Professions intermédiaires,"17,5","17,0","17,9",91477,palaiseau
+Employés,"13,0","13,1","12,8",91477,palaiseau
+Ouvriers,"12,8","11,5","13,1",91477,palaiseau
+Ensemble,"15,0","14,4","15,3",91521,ris-orangis
+Cadres*,"24,2","22,8","24,9",91521,ris-orangis
+Professions intermédiaires,"16,5","16,0","16,9",91521,ris-orangis
+Employés,"12,1","12,1","12,1",91521,ris-orangis
+Ouvriers,"12,2","10,8","12,4",91521,ris-orangis
+Ensemble,"17,8","16,7","18,6",91549,sainte-genevieve-des-bois
+Cadres*,"28,2","25,0","30,1",91549,sainte-genevieve-des-bois
+Professions intermédiaires,"17,3","16,5","17,9",91549,sainte-genevieve-des-bois
+Employés,"13,0","12,9","13,2",91549,sainte-genevieve-des-bois
+Ouvriers,"12,8","11,3","13,2",91549,sainte-genevieve-des-bois
+Ensemble,"16,6","15,8","17,1",91570,saint-michel-sur-orge
+Cadres*,"26,1","24,0","27,3",91570,saint-michel-sur-orge
+Professions intermédiaires,"16,8","16,4","17,2",91570,saint-michel-sur-orge
+Employés,"12,5","12,6","12,4",91570,saint-michel-sur-orge
+Ouvriers,"12,6","11,3","12,9",91570,saint-michel-sur-orge
+Ensemble,"18,5","17,6","19,2",91589,savigny-sur-orge
+Cadres*,"27,9","25,7","29,4",91589,savigny-sur-orge
+Professions intermédiaires,"18,0","17,6","18,3",91589,savigny-sur-orge
+Employés,"13,0","12,9","13,1",91589,savigny-sur-orge
+Ouvriers,"13,0","11,2","13,3",91589,savigny-sur-orge
+Ensemble,"15,5","15,0","15,9",91657,vigneux-sur-seine
+Cadres*,"24,4","22,9","25,3",91657,vigneux-sur-seine
+Professions intermédiaires,"16,9","16,3","17,4",91657,vigneux-sur-seine
+Employés,"12,4","12,4","12,2",91657,vigneux-sur-seine
+Ouvriers,"12,7","11,1","13,0",91657,vigneux-sur-seine
+Ensemble,"16,0","15,7","16,3",91687,viry-chatillon
+Cadres*,"25,6","24,3","26,5",91687,viry-chatillon
+Professions intermédiaires,"16,8","16,3","17,1",91687,viry-chatillon
+Employés,"12,5","12,6","12,4",91687,viry-chatillon
+Ouvriers,"12,4","11,0","12,7",91687,viry-chatillon
+Ensemble,"20,5","19,0","21,7",91691,yerres
+Cadres*,"29,1","26,3","31,1",91691,yerres
+Professions intermédiaires,"18,2","17,8","18,6",91691,yerres
+Employés,"13,4","13,4","13,5",91691,yerres
+Ouvriers,"13,5","12,6","13,6",91691,yerres
+Ensemble,"15,2","14,3","15,7",91692,les-ulis
+Cadres*,"24,2","22,7","24,9",91692,les-ulis
+Professions intermédiaires,"16,1","15,7","16,4",91692,les-ulis
+Employés,"12,1","12,1","12,0",91692,les-ulis
+Ouvriers,"12,3","10,8","12,7",91692,les-ulis
+Ensemble,"25,5","22,9","27,5",92002,antony
+Cadres*,"33,1","29,6","35,4",92002,antony
+Professions intermédiaires,"18,4","18,2","18,8",92002,antony
+Employés,"13,4","13,4","13,4",92002,antony
+Ouvriers,"12,8","12,6","12,8",92002,antony
+Ensemble,"24,8","23,4","26,0",92004,asnieres-sur-seine
+Cadres*,"33,4","30,7","35,6",92004,asnieres-sur-seine
+Professions intermédiaires,"18,4","18,2","18,6",92004,asnieres-sur-seine
+Employés,"13,5","13,4","13,5",92004,asnieres-sur-seine
+Ouvriers,"12,3","11,7","12,5",92004,asnieres-sur-seine
+Ensemble,"17,2","16,9","17,3",92007,bagneux
+Cadres*,"26,3","25,5","26,8",92007,bagneux
+Professions intermédiaires,"16,6","16,3","16,8",92007,bagneux
+Employés,"12,1","12,2","12,0",92007,bagneux
+Ouvriers,"12,0","10,9","12,2",92007,bagneux
+Ensemble,"27,8","25,6","29,8",92009,bois-colombes
+Cadres*,"35,9","32,5","38,9",92009,bois-colombes
+Professions intermédiaires,"19,2","19,0","19,5",92009,bois-colombes
+Employés,"14,1","14,2","14,0",92009,bois-colombes
+Ouvriers,"12,8","12,1","12,9",92009,bois-colombes
+Ensemble,"31,5","27,6","35,0",92012,boulogne-billancourt
+Cadres*,"40,1","34,5","44,7",92012,boulogne-billancourt
+Professions intermédiaires,"20,0","19,2","21,1",92012,boulogne-billancourt
+Employés,"14,7","14,7","14,6",92012,boulogne-billancourt
+Ouvriers,"12,7","12,3","12,7",92012,boulogne-billancourt
+Ensemble,"26,9","24,4","28,8",92014,bourg-la-reine
+Cadres*,"34,2","31,1","36,4",92014,bourg-la-reine
+Professions intermédiaires,"18,9","18,7","19,2",92014,bourg-la-reine
+Employés,"13,1","13,0","13,3",92014,bourg-la-reine
+Ouvriers,"12,6","10,8","12,9",92014,bourg-la-reine
+Ensemble,"22,0","20,4","23,3",92019,chatenay-malabry
+Cadres*,"31,3","28,8","32,9",92019,chatenay-malabry
+Professions intermédiaires,"18,1","17,5","18,8",92019,chatenay-malabry
+Employés,"13,0","12,9","13,1",92019,chatenay-malabry
+Ouvriers,"12,3","11,0","12,5",92019,chatenay-malabry
+Ensemble,"23,8","22,5","24,8",92020,chatillon
+Cadres*,"30,2","28,4","31,6",92020,chatillon
+Professions intermédiaires,"18,5","18,3","18,8",92020,chatillon
+Employés,"13,6","13,9","13,2",92020,chatillon
+Ouvriers,"13,3","11,9","13,5",92020,chatillon
+Ensemble,"25,0","23,0","26,5",92023,clamart
+Cadres*,"34,0","30,9","36,3",92023,clamart
+Professions intermédiaires,"18,4","18,0","18,7",92023,clamart
+Employés,"13,5","13,5","13,4",92023,clamart
+Ouvriers,"13,2","11,5","13,6",92023,clamart
+Ensemble,"20,7","20,2","21,0",92024,clichy
+Cadres*,"29,1","27,3","30,7",92024,clichy
+Professions intermédiaires,"17,4","17,2","17,6",92024,clichy
+Employés,"12,9","13,1","12,6",92024,clichy
+Ouvriers,"12,1","11,3","12,3",92024,clichy
+Ensemble,"22,9","22,0","23,6",92025,colombes
+Cadres*,"33,6","31,0","35,7",92025,colombes
+Professions intermédiaires,"17,9","17,8","18,0",92025,colombes
+Employés,"12,8","13,1","12,4",92025,colombes
+Ouvriers,"12,2","11,1","12,4",92025,colombes
+Ensemble,"26,9","24,9","28,7",92026,courbevoie
+Cadres*,"33,3","30,6","35,5",92026,courbevoie
+Professions intermédiaires,"19,6","19,4","19,8",92026,courbevoie
+Employés,"14,1","14,2","14,0",92026,courbevoie
+Ouvriers,"13,1","12,7","13,2",92026,courbevoie
+Ensemble,"21,9","20,3","23,1",92032,fontenay-aux-roses
+Cadres*,"30,9","28,2","32,9",92032,fontenay-aux-roses
+Professions intermédiaires,"17,3","17,3","17,3",92032,fontenay-aux-roses
+Employés,"12,9","12,9","12,9",92032,fontenay-aux-roses
+Ouvriers,"12,4","11,2","12,6",92032,fontenay-aux-roses
+Ensemble,"27,7","25,4","29,8",92035,la-garenne-colombes
+Cadres*,"34,8","31,6","37,5",92035,la-garenne-colombes
+Professions intermédiaires,"19,8","19,1","20,6",92035,la-garenne-colombes
+Employés,"14,3","14,1","14,7",92035,la-garenne-colombes
+Ouvriers,"13,2","11,9","13,4",92035,la-garenne-colombes
+Ensemble,"15,4","15,5","15,4",92036,gennevilliers
+Cadres*,"25,0","23,6","26,1",92036,gennevilliers
+Professions intermédiaires,"16,3","16,0","16,6",92036,gennevilliers
+Employés,"12,1","12,3","11,8",92036,gennevilliers
+Ouvriers,"12,1","10,8","12,3",92036,gennevilliers
+Ensemble,"28,2","25,5","30,5",92040,issy-les-moulineaux
+Cadres*,"35,4","31,6","38,3",92040,issy-les-moulineaux
+Professions intermédiaires,"18,9","18,3","19,5",92040,issy-les-moulineaux
+Employés,"13,9","13,9","13,9",92040,issy-les-moulineaux
+Ouvriers,"13,1","13,5","13,0",92040,issy-les-moulineaux
+Ensemble,"30,7","27,4","34,0",92044,levallois-perret
+Cadres*,"38,0","33,6","42,1",92044,levallois-perret
+Professions intermédiaires,"20,3","19,7","21,0",92044,levallois-perret
+Employés,"15,4","15,0","15,9",92044,levallois-perret
+Ouvriers,"13,1","13,0","13,2",92044,levallois-perret
+Ensemble,"21,3","20,4","21,9",92046,malakoff
+Cadres*,"30,4","28,1","32,2",92046,malakoff
+Professions intermédiaires,"17,6","17,3","17,8",92046,malakoff
+Employés,"12,7","12,8","12,5",92046,malakoff
+Ouvriers,"12,6","12,0","12,7",92046,malakoff
+Ensemble,"28,0","24,7","30,6",92048,meudon
+Cadres*,"38,9","33,6","42,7",92048,meudon
+Professions intermédiaires,"18,3","18,1","18,5",92048,meudon
+Employés,"13,4","13,3","13,5",92048,meudon
+Ouvriers,"13,2","12,3","13,3",92048,meudon
+Ensemble,"24,6","22,4","26,5",92049,montrouge
+Cadres*,"31,4","28,4","33,8",92049,montrouge
+Professions intermédiaires,"18,2","17,5","19,1",92049,montrouge
+Employés,"13,8","13,7","13,9",92049,montrouge
+Ouvriers,"12,6","11,9","12,8",92049,montrouge
+Ensemble,"19,6","18,9","20,0",92050,nanterre
+Cadres*,"29,8","27,5","31,4",92050,nanterre
+Professions intermédiaires,"17,1","16,8","17,4",92050,nanterre
+Employés,"12,3","12,5","11,9",92050,nanterre
+Ouvriers,"12,1","10,7","12,4",92050,nanterre
+Ensemble,"48,2","36,6","59,1",92051,neuilly-sur-seine
+Cadres*,"61,4","47,3","72,8",92051,neuilly-sur-seine
+Professions intermédiaires,"21,8","21,8","21,9",92051,neuilly-sur-seine
+Employés,"15,2","14,7","16,1",92051,neuilly-sur-seine
+Ouvriers,"13,5","13,4","13,6",92051,neuilly-sur-seine
+Ensemble,"24,8","22,2","26,9",92060,le-plessis-robinson
+Cadres*,"31,9","28,5","34,3",92060,le-plessis-robinson
+Professions intermédiaires,"19,8","18,5","21,1",92060,le-plessis-robinson
+Employés,"14,3","14,3","14,3",92060,le-plessis-robinson
+Ouvriers,"13,9","12,6","14,1",92060,le-plessis-robinson
+Ensemble,"27,1","24,9","29,0",92062,puteaux
+Cadres*,"33,4","30,3","35,8",92062,puteaux
+Professions intermédiaires,"19,3","18,9","19,8",92062,puteaux
+Employés,"14,3","14,1","14,5",92062,puteaux
+Ouvriers,"13,2","13,3","13,2",92062,puteaux
+Ensemble,"29,9","26,7","32,7",92063,rueil-malmaison
+Cadres*,"39,2","34,6","42,8",92063,rueil-malmaison
+Professions intermédiaires,"19,1","18,7","19,6",92063,rueil-malmaison
+Employés,"13,9","14,0","13,8",92063,rueil-malmaison
+Ouvriers,"13,0","11,9","13,2",92063,rueil-malmaison
+Ensemble,"37,3","31,8","41,9",92064,saint-cloud
+Cadres*,"46,4","39,5","51,6",92064,saint-cloud
+Professions intermédiaires,"20,0","19,6","20,4",92064,saint-cloud
+Employés,"14,9","15,0","14,9",92064,saint-cloud
+Ouvriers,"12,8","11,5","13,1",92064,saint-cloud
+Ensemble,"31,8","26,6","36,2",92071,sceaux
+Cadres*,"40,8","34,3","45,4",92071,sceaux
+Professions intermédiaires,"20,0","18,7","21,7",92071,sceaux
+Employés,"14,0","13,9","14,2",92071,sceaux
+Ouvriers,"13,3","11,8","13,6",92071,sceaux
+Ensemble,"31,9","27,5","35,5",92072,sevres
+Cadres*,"42,3","35,9","47,0",92072,sevres
+Professions intermédiaires,"19,2","18,5","20,1",92072,sevres
+Employés,"13,7","13,8","13,5",92072,sevres
+Ouvriers,"12,5","11,2","12,8",92072,sevres
+Ensemble,"29,1","26,2","31,7",92073,suresnes
+Cadres*,"37,3","33,4","40,3",92073,suresnes
+Professions intermédiaires,"19,1","18,8","19,4",92073,suresnes
+Employés,"14,1","13,9","14,4",92073,suresnes
+Ouvriers,"12,7","12,4","12,7",92073,suresnes
+Ensemble,"25,4","23,2","27,3",92075,vanves
+Cadres*,"33,1","30,1","35,4",92075,vanves
+Professions intermédiaires,"17,9","17,5","18,3",92075,vanves
+Employés,"13,8","13,9","13,6",92075,vanves
+Ouvriers,"12,8","12,2","12,9",92075,vanves
+Ensemble,"15,1","14,8","15,3",92078,villeneuve-la-garenne
+Cadres*,"25,0","23,9","25,8",92078,villeneuve-la-garenne
+Professions intermédiaires,"16,0","15,7","16,2",92078,villeneuve-la-garenne
+Employés,"12,1","12,1","12,0",92078,villeneuve-la-garenne
+Ouvriers,"12,1","10,8","12,4",92078,villeneuve-la-garenne
+Ensemble,"12,9","13,3","12,8",93001,aubervilliers
+Cadres*,"22,2","21,8","22,5",93001,aubervilliers
+Professions intermédiaires,"15,3","15,4","15,1",93001,aubervilliers
+Employés,"11,1","11,4","10,9",93001,aubervilliers
+Ouvriers,"11,0","10,3","11,1",93001,aubervilliers
+Ensemble,"14,8","14,5","15,0",93005,aulnay-sous-bois
+Cadres*,"25,4","23,9","26,3",93005,aulnay-sous-bois
+Professions intermédiaires,"16,5","16,2","16,7",93005,aulnay-sous-bois
+Employés,"12,1","12,1","12,0",93005,aulnay-sous-bois
+Ouvriers,"12,1","10,7","12,3",93005,aulnay-sous-bois
+Ensemble,"16,3","16,5","16,2",93006,bagnolet
+Cadres*,"25,7","25,2","26,1",93006,bagnolet
+Professions intermédiaires,"16,4","16,2","16,7",93006,bagnolet
+Employés,"12,1","12,3","11,9",93006,bagnolet
+Ouvriers,"11,8","11,5","11,9",93006,bagnolet
+Ensemble,"13,7","13,7","13,7",93007,le-blanc-mesnil
+Cadres*,"22,6","21,7","23,2",93007,le-blanc-mesnil
+Professions intermédiaires,"15,8","15,6","15,9",93007,le-blanc-mesnil
+Employés,"11,7","11,8","11,6",93007,le-blanc-mesnil
+Ouvriers,"11,8","10,8","11,9",93007,le-blanc-mesnil
+Ensemble,"12,8","12,9","12,8",93008,bobigny
+Cadres*,"21,1","21,1","21,1",93008,bobigny
+Professions intermédiaires,"15,2","14,9","15,3",93008,bobigny
+Employés,"11,4","11,7","11,2",93008,bobigny
+Ouvriers,"11,4","10,3","11,7",93008,bobigny
+Ensemble,"14,1","14,2","14,0",93010,bondy
+Cadres*,"23,8","23,2","24,2",93010,bondy
+Professions intermédiaires,"16,1","16,1","16,1",93010,bondy
+Employés,"11,8","11,9","11,7",93010,bondy
+Ouvriers,"11,8","10,8","12,0",93010,bondy
+Ensemble,"12,8","12,7","12,8",93014,clichy-sous-bois
+Cadres*,"21,0","21,9","20,6",93014,clichy-sous-bois
+Professions intermédiaires,"15,4","14,7","15,8",93014,clichy-sous-bois
+Employés,"11,5","11,5","11,4",93014,clichy-sous-bois
+Ouvriers,"11,5","10,4","11,7",93014,clichy-sous-bois
+Ensemble,"12,3","12,3","12,3",93027,la-courneuve
+Cadres*,"20,5","20,3","20,6",93027,la-courneuve
+Professions intermédiaires,"14,7","14,5","14,9",93027,la-courneuve
+Employés,"11,0","11,1","10,9",93027,la-courneuve
+Ouvriers,"11,1","10,2","11,3",93027,la-courneuve
+Ensemble,"13,9","14,1","13,8",93029,drancy
+Cadres*,"22,8","22,4","23,1",93029,drancy
+Professions intermédiaires,"16,3","16,1","16,4",93029,drancy
+Employés,"11,7","11,9","11,5",93029,drancy
+Ouvriers,"11,7","10,7","11,9",93029,drancy
+Ensemble,"14,4","14,3","14,4",93031,epinay-sur-seine
+Cadres*,"23,3","22,8","23,7",93031,epinay-sur-seine
+Professions intermédiaires,"15,9","15,6","16,2",93031,epinay-sur-seine
+Employés,"11,9","12,0","11,7",93031,epinay-sur-seine
+Ouvriers,"11,9","10,7","12,1",93031,epinay-sur-seine
+Ensemble,"16,7","16,3","17,0",93032,gagny
+Cadres*,"25,9","24,4","27,0",93032,gagny
+Professions intermédiaires,"17,0","16,8","17,3",93032,gagny
+Employés,"12,6","12,7","12,4",93032,gagny
+Ouvriers,"12,6","11,1","12,8",93032,gagny
+Ensemble,"20,2","19,5","20,7",93045,les-lilas
+Cadres*,"28,6","26,5","30,2",93045,les-lilas
+Professions intermédiaires,"17,5","17,3","17,8",93045,les-lilas
+Employés,"13,2","13,4","12,9",93045,les-lilas
+Ouvriers,"12,5","12,7","12,5",93045,les-lilas
+Ensemble,"15,7","15,4","15,9",93046,livry-gargan
+Cadres*,"25,0","24,1","25,6",93046,livry-gargan
+Professions intermédiaires,"16,9","16,5","17,2",93046,livry-gargan
+Employés,"12,4","12,5","12,3",93046,livry-gargan
+Ouvriers,"12,6","11,2","12,9",93046,livry-gargan
+Ensemble,"15,3","14,9","15,6",93047,montfermeil
+Cadres*,"24,2","23,2","24,9",93047,montfermeil
+Professions intermédiaires,"16,5","15,8","17,0",93047,montfermeil
+Employés,"12,4","12,5","12,3",93047,montfermeil
+Ouvriers,"12,5","10,7","12,8",93047,montfermeil
+Ensemble,"18,0","18,5","17,7",93048,montreuil
+Cadres*,"27,9","26,0","29,5",93048,montreuil
+Professions intermédiaires,"17,0","16,9","17,1",93048,montreuil
+Employés,"12,3","12,6","12,0",93048,montreuil
+Ouvriers,"11,9","11,8","11,9",93048,montreuil
+Ensemble,"19,3","18,7","19,8",93049,neuilly-plaisance
+Cadres*,"28,1","26,1","29,5",93049,neuilly-plaisance
+Professions intermédiaires,"17,6","17,6","17,6",93049,neuilly-plaisance
+Employés,"12,8","13,0","12,5",93049,neuilly-plaisance
+Ouvriers,"12,5","11,4","12,7",93049,neuilly-plaisance
+Ensemble,"15,7","15,3","15,9",93050,neuilly-sur-marne
+Cadres*,"24,0","22,8","24,8",93050,neuilly-sur-marne
+Professions intermédiaires,"16,7","16,3","17,0",93050,neuilly-sur-marne
+Employés,"12,4","12,5","12,2",93050,neuilly-sur-marne
+Ouvriers,"12,4","10,9","12,7",93050,neuilly-sur-marne
+Ensemble,"17,8","17,1","18,4",93051,noisy-le-grand
+Cadres*,"25,9","24,2","27,1",93051,noisy-le-grand
+Professions intermédiaires,"17,1","16,7","17,5",93051,noisy-le-grand
+Employés,"12,7","12,8","12,6",93051,noisy-le-grand
+Ouvriers,"12,5","11,2","12,7",93051,noisy-le-grand
+Ensemble,"14,9","15,0","14,8",93053,noisy-le-sec
+Cadres*,"24,0","23,3","24,5",93053,noisy-le-sec
+Professions intermédiaires,"16,3","16,0","16,5",93053,noisy-le-sec
+Employés,"12,0","12,2","11,8",93053,noisy-le-sec
+Ouvriers,"11,8","10,8","12,0",93053,noisy-le-sec
+Ensemble,"16,6","17,0","16,3",93055,pantin
+Cadres*,"26,7","25,2","28,0",93055,pantin
+Professions intermédiaires,"16,7","16,6","16,7",93055,pantin
+Employés,"12,1","12,2","11,9",93055,pantin
+Ouvriers,"11,5","11,2","11,5",93055,pantin
+Ensemble,"16,1","15,7","16,4",93057,les-pavillons-sous-bois
+Cadres*,"25,4","23,9","26,3",93057,les-pavillons-sous-bois
+Professions intermédiaires,"16,9","16,5","17,3",93057,les-pavillons-sous-bois
+Employés,"12,7","12,5","12,9",93057,les-pavillons-sous-bois
+Ouvriers,"12,5","11,3","12,7",93057,les-pavillons-sous-bois
+Ensemble,"13,0","12,9","13,1",93059,pierrefitte-sur-seine
+Cadres*,"21,5","20,5","22,0",93059,pierrefitte-sur-seine
+Professions intermédiaires,"15,3","15,2","15,4",93059,pierrefitte-sur-seine
+Employés,"11,4","11,5","11,3",93059,pierrefitte-sur-seine
+Ouvriers,"11,6","10,7","11,7",93059,pierrefitte-sur-seine
+Ensemble,"16,9","16,9","17,0",93063,romainville
+Cadres*,"25,6","24,2","26,7",93063,romainville
+Professions intermédiaires,"17,0","16,5","17,4",93063,romainville
+Employés,"12,7","12,9","12,4",93063,romainville
+Ouvriers,"12,3","11,6","12,4",93063,romainville
+Ensemble,"16,5","16,5","16,5",93064,rosny-sous-bois
+Cadres*,"25,5","24,1","26,5",93064,rosny-sous-bois
+Professions intermédiaires,"17,0","16,8","17,2",93064,rosny-sous-bois
+Employés,"12,5","12,6","12,3",93064,rosny-sous-bois
+Ouvriers,"12,1","11,1","12,2",93064,rosny-sous-bois
+Ensemble,"14,4","14,6","14,2",93066,saint-denis
+Cadres*,"24,1","23,3","24,6",93066,saint-denis
+Professions intermédiaires,"15,7","15,7","15,8",93066,saint-denis
+Employés,"11,6","11,9","11,4",93066,saint-denis
+Ouvriers,"11,5","10,6","11,7",93066,saint-denis
+Ensemble,"18,8","18,6","18,9",93070,saint-ouen-sur-seine
+Cadres*,"27,6","26,1","28,7",93070,saint-ouen-sur-seine
+Professions intermédiaires,"17,3","17,0","17,6",93070,saint-ouen-sur-seine
+Employés,"12,6","12,9","12,3",93070,saint-ouen-sur-seine
+Ouvriers,"11,9","11,3","12,0",93070,saint-ouen-sur-seine
+Ensemble,"13,5","13,4","13,6",93071,sevran
+Cadres*,"22,9","22,5","23,1",93071,sevran
+Professions intermédiaires,"15,7","15,3","16,1",93071,sevran
+Employés,"11,8","12,0","11,5",93071,sevran
+Ouvriers,"11,9","10,6","12,2",93071,sevran
+Ensemble,"12,9","12,8","12,9",93072,stains
+Cadres*,"21,0","21,7","20,6",93072,stains
+Professions intermédiaires,"15,4","15,0","15,6",93072,stains
+Employés,"11,4","11,6","11,2",93072,stains
+Ouvriers,"11,6","10,4","11,9",93072,stains
+Ensemble,"15,8","15,0","16,3",93073,tremblay-en-france
+Cadres*,"24,6","22,9","25,7",93073,tremblay-en-france
+Professions intermédiaires,"17,0","16,1","17,8",93073,tremblay-en-france
+Employés,"12,7","12,6","12,8",93073,tremblay-en-france
+Ouvriers,"13,1","11,3","13,4",93073,tremblay-en-france
+Ensemble,"17,9","17,6","18,2",93077,villemomble
+Cadres*,"28,6","26,5","30,2",93077,villemomble
+Professions intermédiaires,"17,4","17,2","17,7",93077,villemomble
+Employés,"12,7","12,8","12,7",93077,villemomble
+Ouvriers,"12,1","11,2","12,3",93077,villemomble
+Ensemble,"14,7","14,1","15,1",93078,villepinte
+Cadres*,"23,3","21,9","24,0",93078,villepinte
+Professions intermédiaires,"16,2","15,7","16,7",93078,villepinte
+Employés,"12,5","12,5","12,4",93078,villepinte
+Ouvriers,"12,6","11,0","13,0",93078,villepinte
+Ensemble,"18,1","17,7","18,4",94002,alfortville
+Cadres*,"26,1","24,4","27,4",94002,alfortville
+Professions intermédiaires,"17,0","16,5","17,5",94002,alfortville
+Employés,"12,6","12,7","12,4",94002,alfortville
+Ouvriers,"12,3","11,9","12,4",94002,alfortville
+Ensemble,"19,1","18,7","19,4",94003,arcueil
+Cadres*,"27,5","26,7","28,1",94003,arcueil
+Professions intermédiaires,"17,0","17,1","16,9",94003,arcueil
+Employés,"12,4","12,5","12,3",94003,arcueil
+Ouvriers,"12,1","11,0","12,3",94003,arcueil
+Ensemble,"20,2","19,6","20,6",94016,cachan
+Cadres*,"27,8","26,8","28,5",94016,cachan
+Professions intermédiaires,"17,3","17,0","17,6",94016,cachan
+Employés,"12,5","12,6","12,4",94016,cachan
+Ouvriers,"12,2","11,3","12,3",94016,cachan
+Ensemble,"16,7","16,3","17,1",94017,champigny-sur-marne
+Cadres*,"27,0","25,0","28,4",94017,champigny-sur-marne
+Professions intermédiaires,"17,2","16,9","17,5",94017,champigny-sur-marne
+Employés,"12,3","12,4","12,2",94017,champigny-sur-marne
+Ouvriers,"12,4","10,9","12,7",94017,champigny-sur-marne
+Ensemble,"24,0","22,1","25,7",94018,charenton-le-pont
+Cadres*,"31,6","28,9","33,8",94018,charenton-le-pont
+Professions intermédiaires,"19,0","18,5","19,6",94018,charenton-le-pont
+Employés,"14,3","13,8","15,1",94018,charenton-le-pont
+Ouvriers,"13,1","12,7","13,2",94018,charenton-le-pont
+Ensemble,"17,0","16,7","17,2",94021,chevilly-larue
+Cadres*,"26,3","24,5","27,4",94021,chevilly-larue
+Professions intermédiaires,"17,5","17,6","17,3",94021,chevilly-larue
+Employés,"12,6","12,6","12,5",94021,chevilly-larue
+Ouvriers,"12,5","11,0","12,7",94021,chevilly-larue
+Ensemble,"16,2","16,0","16,4",94022,choisy-le-roi
+Cadres*,"25,0","24,0","25,7",94022,choisy-le-roi
+Professions intermédiaires,"16,8","16,6","17,0",94022,choisy-le-roi
+Employés,"12,2","12,3","12,2",94022,choisy-le-roi
+Ouvriers,"12,3","11,0","12,5",94022,choisy-le-roi
+Ensemble,"16,4","15,9","16,7",94028,creteil
+Cadres*,"25,8","24,1","26,9",94028,creteil
+Professions intermédiaires,"16,6","16,2","17,1",94028,creteil
+Employés,"12,2","12,4","12,1",94028,creteil
+Ouvriers,"12,1","11,1","12,3",94028,creteil
+Ensemble,"22,1","20,6","23,2",94033,fontenay-sous-bois
+Cadres*,"32,6","29,0","35,3",94033,fontenay-sous-bois
+Professions intermédiaires,"17,7","17,3","18,2",94033,fontenay-sous-bois
+Employés,"13,0","13,1","13,0",94033,fontenay-sous-bois
+Ouvriers,"12,5","11,7","12,7",94033,fontenay-sous-bois
+Ensemble,"18,0","17,4","18,4",94034,fresnes
+Cadres*,"26,7","25,3","27,7",94034,fresnes
+Professions intermédiaires,"17,1","16,9","17,3",94034,fresnes
+Employés,"12,7","12,8","12,5",94034,fresnes
+Ouvriers,"12,4","11,2","12,7",94034,fresnes
+Ensemble,"19,6","18,6","20,2",94038,l-hay-les-roses
+Cadres*,"30,0","27,5","31,5",94038,l-hay-les-roses
+Professions intermédiaires,"17,7","17,3","18,2",94038,l-hay-les-roses
+Employés,"12,9","12,9","12,9",94038,l-hay-les-roses
+Ouvriers,"12,4","11,2","12,6",94038,l-hay-les-roses
+Ensemble,"16,5","16,3","16,6",94041,ivry-sur-seine
+Cadres*,"24,8","24,0","25,4",94041,ivry-sur-seine
+Professions intermédiaires,"16,5","16,4","16,7",94041,ivry-sur-seine
+Employés,"12,2","12,3","12,2",94041,ivry-sur-seine
+Ouvriers,"12,0","11,0","12,2",94041,ivry-sur-seine
+Ensemble,"23,2","21,9","24,3",94042,joinville-le-pont
+Cadres*,"31,1","29,2","32,7",94042,joinville-le-pont
+Professions intermédiaires,"19,0","18,0","20,1",94042,joinville-le-pont
+Employés,"13,7","13,7","13,8",94042,joinville-le-pont
+Ouvriers,"13,0","12,5","13,1",94042,joinville-le-pont
+Ensemble,"18,5","18,2","18,8",94043,le-kremlin-bicetre
+Cadres*,"26,2","25,3","26,9",94043,le-kremlin-bicetre
+Professions intermédiaires,"16,9","16,8","17,0",94043,le-kremlin-bicetre
+Employés,"12,5","12,8","12,2",94043,le-kremlin-bicetre
+Ouvriers,"12,1","11,2","12,3",94043,le-kremlin-bicetre
+Ensemble,"16,3","15,6","16,8",94044,limeil-brevannes
+Cadres*,"25,2","23,4","26,3",94044,limeil-brevannes
+Professions intermédiaires,"17,1","16,5","17,6",94044,limeil-brevannes
+Employés,"12,7","12,5","12,9",94044,limeil-brevannes
+Ouvriers,"13,1","11,4","13,4",94044,limeil-brevannes
+Ensemble,"21,0","20,0","21,9",94046,maisons-alfort
+Cadres*,"28,4","26,3","29,9",94046,maisons-alfort
+Professions intermédiaires,"18,0","18,0","18,0",94046,maisons-alfort
+Employés,"13,7","13,7","13,8",94046,maisons-alfort
+Ouvriers,"13,1","12,3","13,2",94046,maisons-alfort
+Ensemble,"26,7","24,0","29,0",94052,nogent-sur-marne
+Cadres*,"34,9","31,1","37,9",94052,nogent-sur-marne
+Professions intermédiaires,"19,0","18,3","19,8",94052,nogent-sur-marne
+Employés,"14,2","14,2","14,3",94052,nogent-sur-marne
+Ouvriers,"13,1","13,0","13,2",94052,nogent-sur-marne
+Ensemble,"15,2","14,7","15,5",94054,orly
+Cadres*,"24,4","22,9","25,4",94054,orly
+Professions intermédiaires,"16,8","16,1","17,5",94054,orly
+Employés,"12,3","12,3","12,3",94054,orly
+Ouvriers,"12,6","11,2","12,8",94054,orly
+Ensemble,"24,2","22,4","25,8",94058,le-perreux-sur-marne
+Cadres*,"32,4","29,0","35,0",94058,le-perreux-sur-marne
+Professions intermédiaires,"19,0","18,8","19,3",94058,le-perreux-sur-marne
+Employés,"14,2","14,3","14,2",94058,le-perreux-sur-marne
+Ouvriers,"13,2","12,2","13,3",94058,le-perreux-sur-marne
+Ensemble,"19,0","18,0","19,9",94059,le-plessis-trevise
+Cadres*,"29,0","26,8","30,5",94059,le-plessis-trevise
+Professions intermédiaires,"17,6","17,1","18,1",94059,le-plessis-trevise
+Employés,"13,0","13,1","13,0",94059,le-plessis-trevise
+Ouvriers,"13,1","11,9","13,3",94059,le-plessis-trevise
+Ensemble,"28,6","24,9","32,0",94067,saint-mande
+Cadres*,"36,2","31,4","40,1",94067,saint-mande
+Professions intermédiaires,"20,3","19,4","21,3",94067,saint-mande
+Employés,"14,7","14,8","14,6",94067,saint-mande
+Ouvriers,"13,4","14,1","13,1",94067,saint-mande
+Ensemble,"25,8","23,1","28,1",94068,saint-maur-des-fosses
+Cadres*,"35,2","30,8","38,4",94068,saint-maur-des-fosses
+Professions intermédiaires,"19,1","18,5","19,7",94068,saint-maur-des-fosses
+Employés,"14,0","14,0","14,1",94068,saint-maur-des-fosses
+Ouvriers,"12,8","11,7","13,1",94068,saint-maur-des-fosses
+Ensemble,"21,0","19,1","22,3",94071,sucy-en-brie
+Cadres*,"31,4","27,9","33,5",94071,sucy-en-brie
+Professions intermédiaires,"18,1","17,6","18,7",94071,sucy-en-brie
+Employés,"13,2","13,2","13,2",94071,sucy-en-brie
+Ouvriers,"13,3","11,5","13,6",94071,sucy-en-brie
+Ensemble,"18,4","17,7","18,9",94073,thiais
+Cadres*,"27,9","25,7","29,4",94073,thiais
+Professions intermédiaires,"17,7","17,4","17,9",94073,thiais
+Employés,"13,1","13,1","12,9",94073,thiais
+Ouvriers,"12,8","11,9","12,9",94073,thiais
+Ensemble,"17,3","16,9","17,7",94076,villejuif
+Cadres*,"25,3","24,1","26,1",94076,villejuif
+Professions intermédiaires,"16,8","16,6","17,0",94076,villejuif
+Employés,"12,3","12,4","12,1",94076,villejuif
+Ouvriers,"12,2","11,2","12,4",94076,villejuif
+Ensemble,"15,8","15,4","16,1",94077,villeneuve-le-roi
+Cadres*,"24,7","23,7","25,3",94077,villeneuve-le-roi
+Professions intermédiaires,"17,1","16,3","17,8",94077,villeneuve-le-roi
+Employés,"12,5","12,6","12,4",94077,villeneuve-le-roi
+Ouvriers,"13,0","10,8","13,4",94077,villeneuve-le-roi
+Ensemble,"13,3","13,1","13,3",94078,villeneuve-saint-georges
+Cadres*,"22,0","21,5","22,3",94078,villeneuve-saint-georges
+Professions intermédiaires,"15,8","15,5","16,0",94078,villeneuve-saint-georges
+Employés,"11,5","11,7","11,3",94078,villeneuve-saint-georges
+Ouvriers,"11,8","10,6","12,0",94078,villeneuve-saint-georges
+Ensemble,"18,3","17,5","19,0",94079,villiers-sur-marne
+Cadres*,"26,7","24,8","28,0",94079,villiers-sur-marne
+Professions intermédiaires,"17,5","17,1","17,8",94079,villiers-sur-marne
+Employés,"12,6","12,7","12,5",94079,villiers-sur-marne
+Ouvriers,"12,7","10,9","13,1",94079,villiers-sur-marne
+Ensemble,"28,0","25,4","30,3",94080,vincennes
+Cadres*,"34,9","31,3","38,1",94080,vincennes
+Professions intermédiaires,"19,4","18,5","20,4",94080,vincennes
+Employés,"14,5","14,6","14,4",94080,vincennes
+Ouvriers,"12,7","13,0","12,6",94080,vincennes
+Ensemble,"15,4","15,1","15,5",94081,vitry-sur-seine
+Cadres*,"24,9","23,9","25,5",94081,vitry-sur-seine
+Professions intermédiaires,"16,5","16,4","16,7",94081,vitry-sur-seine
+Employés,"12,0","12,0","11,9",94081,vitry-sur-seine
+Ouvriers,"12,0","11,1","12,2",94081,vitry-sur-seine
+Ensemble,"15,8","15,9","15,7",95018,argenteuil
+Cadres*,"25,8","24,8","26,6",95018,argenteuil
+Professions intermédiaires,"16,9","16,7","17,1",95018,argenteuil
+Employés,"12,0","12,4","11,6",95018,argenteuil
+Ouvriers,"12,1","10,8","12,3",95018,argenteuil
+Ensemble,"17,4","17,2","17,6",95063,bezons
+Cadres*,"25,6","24,3","26,7",95063,bezons
+Professions intermédiaires,"17,0","17,0","17,0",95063,bezons
+Employés,"12,5","12,8","12,1",95063,bezons
+Ouvriers,"12,7","10,9","13,0",95063,bezons
+Ensemble,"15,8","15,2","16,1",95127,cergy
+Cadres*,"24,4","22,7","25,3",95127,cergy
+Professions intermédiaires,"16,2","16,0","16,3",95127,cergy
+Employés,"12,0","12,2","11,6",95127,cergy
+Ouvriers,"12,0","10,8","12,3",95127,cergy
+Ensemble,"21,2","19,9","22,3",95176,cormeilles-en-parisis
+Cadres*,"29,3","26,8","31,0",95176,cormeilles-en-parisis
+Professions intermédiaires,"18,2","17,9","18,5",95176,cormeilles-en-parisis
+Employés,"13,9","14,0","13,9",95176,cormeilles-en-parisis
+Ouvriers,"13,6","11,8","13,9",95176,cormeilles-en-parisis
+Ensemble,"18,8","18,2","19,2",95197,deuil-la-barre
+Cadres*,"27,7","25,6","29,3",95197,deuil-la-barre
+Professions intermédiaires,"17,5","17,2","17,8",95197,deuil-la-barre
+Employés,"12,9","13,1","12,5",95197,deuil-la-barre
+Ouvriers,"12,5","11,0","12,7",95197,deuil-la-barre
+Ensemble,"20,6","19,7","21,4",95203,eaubonne
+Cadres*,"29,1","27,5","30,3",95203,eaubonne
+Professions intermédiaires,"18,1","17,5","18,8",95203,eaubonne
+Employés,"13,4","13,4","13,4",95203,eaubonne
+Ouvriers,"13,0","11,7","13,1",95203,eaubonne
+Ensemble,"19,5","18,8","20,1",95219,ermont
+Cadres*,"28,4","26,4","29,8",95219,ermont
+Professions intermédiaires,"17,8","17,4","18,1",95219,ermont
+Employés,"13,2","13,3","12,9",95219,ermont
+Ouvriers,"12,8","11,3","13,0",95219,ermont
+Ensemble,"17,7","17,1","18,2",95252,franconville
+Cadres*,"25,8","24,2","27,0",95252,franconville
+Professions intermédiaires,"17,4","17,0","17,7",95252,franconville
+Employés,"13,1","13,1","13,1",95252,franconville
+Ouvriers,"13,0","11,6","13,2",95252,franconville
+Ensemble,"12,5","12,5","12,5",95268,garges-les-gonesse
+Cadres*,"20,7","21,1","20,5",95268,garges-les-gonesse
+Professions intermédiaires,"15,0","14,7","15,2",95268,garges-les-gonesse
+Employés,"11,3","11,5","11,1",95268,garges-les-gonesse
+Ouvriers,"11,5","10,4","11,7",95268,garges-les-gonesse
+Ensemble,"14,0","14,0","13,9",95277,gonesse
+Cadres*,"23,8","24,1","23,6",95277,gonesse
+Professions intermédiaires,"15,8","15,3","16,1",95277,gonesse
+Employés,"12,0","12,2","11,7",95277,gonesse
+Ouvriers,"12,0","10,8","12,2",95277,gonesse
+Ensemble,"13,5","13,2","13,6",95280,goussainville
+Cadres*,"21,5","21,3","21,6",95280,goussainville
+Professions intermédiaires,"16,0","15,6","16,3",95280,goussainville
+Employés,"11,9","11,8","11,9",95280,goussainville
+Ouvriers,"12,0","11,0","12,2",95280,goussainville
+Ensemble,"20,2","18,9","21,3",95306,herblay-sur-seine
+Cadres*,"29,2","26,4","31,2",95306,herblay-sur-seine
+Professions intermédiaires,"18,0","17,6","18,4",95306,herblay-sur-seine
+Employés,"13,5","13,5","13,3",95306,herblay-sur-seine
+Ouvriers,"13,5","11,9","13,7",95306,herblay-sur-seine
+Ensemble,"16,6","16,1","16,9",95424,montigny-les-cormeilles
+Cadres*,"26,2","24,7","27,2",95424,montigny-les-cormeilles
+Professions intermédiaires,"17,0","16,7","17,3",95424,montigny-les-cormeilles
+Employés,"12,5","12,7","12,2",95424,montigny-les-cormeilles
+Ouvriers,"13,0","11,7","13,3",95424,montigny-les-cormeilles
+Ensemble,"22,6","20,5","24,3",95428,montmorency
+Cadres*,"33,5","29,4","36,4",95428,montmorency
+Professions intermédiaires,"18,4","18,4","18,3",95428,montmorency
+Employés,"13,7","13,6","13,9",95428,montmorency
+Ouvriers,"13,2","11,9","13,4",95428,montmorency
+Ensemble,"16,9","16,0","17,5",95500,pontoise
+Cadres*,"27,7","25,1","29,4",95500,pontoise
+Professions intermédiaires,"16,4","16,0","16,7",95500,pontoise
+Employés,"12,1","12,1","12,1",95500,pontoise
+Ouvriers,"12,1","10,6","12,4",95500,pontoise
+Ensemble,"18,9","18,1","19,5",95555,saint-gratien
+Cadres*,"28,9","26,0","31,0",95555,saint-gratien
+Professions intermédiaires,"17,4","17,1","17,7",95555,saint-gratien
+Employés,"13,1","13,3","12,8",95555,saint-gratien
+Ouvriers,"12,4","10,9","12,6",95555,saint-gratien
+Ensemble,"15,7","15,0","16,1",95572,saint-ouen-l-aumone
+Cadres*,"24,4","22,6","25,5",95572,saint-ouen-l-aumone
+Professions intermédiaires,"16,6","16,1","17,0",95572,saint-ouen-l-aumone
+Employés,"12,5","12,5","12,4",95572,saint-ouen-l-aumone
+Ouvriers,"12,9","11,0","13,2",95572,saint-ouen-l-aumone
+Ensemble,"18,8","18,2","19,3",95582,sannois
+Cadres*,"28,1","25,9","29,7",95582,sannois
+Professions intermédiaires,"17,7","17,3","18,2",95582,sannois
+Employés,"13,0","13,2","12,7",95582,sannois
+Ouvriers,"13,0","11,7","13,2",95582,sannois
+Ensemble,"12,9","12,9","12,9",95585,sarcelles
+Cadres*,"22,5","21,3","23,2",95585,sarcelles
+Professions intermédiaires,"15,3","15,1","15,6",95585,sarcelles
+Employés,"11,4","11,6","11,2",95585,sarcelles
+Ouvriers,"11,4","10,4","11,6",95585,sarcelles
+Ensemble,"18,5","17,7","19,0",95607,taverny
+Cadres*,"27,7","26,2","28,9",95607,taverny
+Professions intermédiaires,"17,6","16,9","18,2",95607,taverny
+Employés,"13,2","13,2","13,2",95607,taverny
+Ouvriers,"13,3","11,6","13,6",95607,taverny
+Ensemble,"12,6","12,5","12,6",95680,villiers-le-bel
+Cadres*,"20,9","21,0","20,8",95680,villiers-le-bel
+Professions intermédiaires,"15,0","14,7","15,2",95680,villiers-le-bel
+Employés,"11,4","11,5","11,2",95680,villiers-le-bel
+Ouvriers,"11,4","10,4","11,6",95680,villiers-le-bel
+Ensemble,"13,9","13,7","14,1",97101,les-abymes
+Cadres*,"24,8","23,6","25,9",97101,les-abymes
+Professions intermédiaires,"16,2","16,0","16,4",97101,les-abymes
+Employés,"12,1","12,0","12,2",97101,les-abymes
+Ouvriers,"11,8","10,6","12,0",97101,les-abymes
+Ensemble,"17,8","16,7","19,0",97103,baie-mahault
+Cadres*,"30,5","27,6","33,0",97103,baie-mahault
+Professions intermédiaires,"18,0","17,3","18,9",97103,baie-mahault
+Employés,"13,2","13,1","13,6",97103,baie-mahault
+Ouvriers,"12,4","10,9","12,7",97103,baie-mahault
+Ensemble,"17,5","16,1","18,7",97113,le-gosier
+Cadres*,"30,9","26,4","34,0",97113,le-gosier
+Professions intermédiaires,"17,8","17,1","18,6",97113,le-gosier
+Employés,"12,9","12,7","13,2",97113,le-gosier
+Ouvriers,"12,3","11,1","12,5",97113,le-gosier
+Ensemble,"14,8","14,4","15,2",97117,le-moule
+Cadres*,"25,9","24,0","27,6",97117,le-moule
+Professions intermédiaires,"17,3","16,8","18,0",97117,le-moule
+Employés,"12,4","12,3","12,7",97117,le-moule
+Ouvriers,"12,5","10,9","12,7",97117,le-moule
+Ensemble,"18,6","17,2","19,9",97118,petit-bourg
+Cadres*,"31,5","28,0","34,1",97118,petit-bourg
+Professions intermédiaires,"18,5","17,6","19,5",97118,petit-bourg
+Employés,"13,5","13,3","13,9",97118,petit-bourg
+Ouvriers,"12,3","11,0","12,6",97118,petit-bourg
+Ensemble,"15,0","14,3","15,6",97128,sainte-anne
+Cadres*,"27,0","23,7","29,2",97128,sainte-anne
+Professions intermédiaires,"17,0","16,4","17,5",97128,sainte-anne
+Employés,"12,2","12,1","12,5",97128,sainte-anne
+Ouvriers,"12,4","11,4","12,5",97128,sainte-anne
+Ensemble,"15,1","14,6","15,6",97209,fort-de-france
+Cadres*,"28,1","25,4","30,6",97209,fort-de-france
+Professions intermédiaires,"16,5","16,2","16,8",97209,fort-de-france
+Employés,"12,2","12,1","12,2",97209,fort-de-france
+Ouvriers,"12,0","10,3","12,4",97209,fort-de-france
+Ensemble,"15,5","14,9","16,1",97213,le-lamentin
+Cadres*,"28,0","25,7","29,9",97213,le-lamentin
+Professions intermédiaires,"17,1","16,6","17,6",97213,le-lamentin
+Employés,"12,5","12,3","13,1",97213,le-lamentin
+Ouvriers,"12,2","10,8","12,5",97213,le-lamentin
+Ensemble,"14,9","14,0","15,6",97222,le-robert
+Cadres*,"27,1","24,1","29,2",97222,le-robert
+Professions intermédiaires,"16,8","15,9","17,6",97222,le-robert
+Employés,"12,0","12,0","12,1",97222,le-robert
+Ouvriers,"12,2","10,8","12,5",97222,le-robert
+Ensemble,"14,2","13,8","14,5",97302,cayenne
+Cadres*,"26,7","25,1","27,8",97302,cayenne
+Professions intermédiaires,"16,4","16,0","16,8",97302,cayenne
+Employés,"11,8","11,7","11,9",97302,cayenne
+Ouvriers,"11,9","10,1","12,2",97302,cayenne
+Ensemble,"18,4","16,2","19,6",97304,kourou
+Cadres*,"34,6","29,7","36,8",97304,kourou
+Professions intermédiaires,"20,7","17,5","22,4",97304,kourou
+Employés,"12,6","12,6","12,7",97304,kourou
+Ouvriers,"13,0","10,8","13,3",97304,kourou
+Ensemble,"14,5","13,9","14,9",97307,matoury
+Cadres*,"25,9","24,0","27,1",97307,matoury
+Professions intermédiaires,"16,8","15,8","17,7",97307,matoury
+Employés,"12,2","12,1","12,4",97307,matoury
+Ouvriers,"12,1","10,3","12,4",97307,matoury
+Ensemble,"19,0","17,7","20,0",97309,remire-montjoly
+Cadres*,"29,9","26,5","32,3",97309,remire-montjoly
+Professions intermédiaires,"18,3","17,5","19,1",97309,remire-montjoly
+Employés,"13,6","13,4","13,9",97309,remire-montjoly
+Ouvriers,"12,8","11,0","13,0",97309,remire-montjoly
+Ensemble,"12,4","12,3","12,4",97311,saint-laurent-du-maroni
+Cadres*,"21,7","21,8","21,6",97311,saint-laurent-du-maroni
+Professions intermédiaires,"15,3","14,8","15,7",97311,saint-laurent-du-maroni
+Employés,"10,8","10,8","10,8",97311,saint-laurent-du-maroni
+Ouvriers,"11,3","9,7","11,5",97311,saint-laurent-du-maroni
+Ensemble,"13,0","12,1","13,4",97407,le-port
+Cadres*,"23,0","21,8","24,0",97407,le-port
+Professions intermédiaires,"15,0","14,1","15,7",97407,le-port
+Employés,"11,4","11,3","11,6",97407,le-port
+Ouvriers,"12,7","10,3","13,0",97407,le-port
+Ensemble,"16,6","15,5","17,4",97408,la-possession
+Cadres*,"29,0","26,3","30,8",97408,la-possession
+Professions intermédiaires,"17,5","16,3","18,6",97408,la-possession
+Employés,"12,7","12,5","13,1",97408,la-possession
+Ouvriers,"13,6","11,9","13,8",97408,la-possession
+Ensemble,"13,1","12,9","13,3",97409,saint-andre
+Cadres*,"23,1","22,1","23,9",97409,saint-andre
+Professions intermédiaires,"15,9","15,4","16,3",97409,saint-andre
+Employés,"11,5","11,5","11,7",97409,saint-andre
+Ouvriers,"11,5","9,8","11,7",97409,saint-andre
+Ensemble,"12,9","12,6","13,0",97410,saint-benoit
+Cadres*,"23,6","22,7","24,2",97410,saint-benoit
+Professions intermédiaires,"15,5","14,8","16,1",97410,saint-benoit
+Employés,"11,4","11,3","11,6",97410,saint-benoit
+Ouvriers,"11,6","10,1","11,8",97410,saint-benoit
+Ensemble,"15,4","15,0","15,7",97411,saint-denis
+Cadres*,"28,5","25,6","30,8",97411,saint-denis
+Professions intermédiaires,"16,4","16,1","16,7",97411,saint-denis
+Employés,"12,2","12,0","12,4",97411,saint-denis
+Ouvriers,"11,5","10,3","11,6",97411,saint-denis
+Ensemble,"12,6","12,1","12,9",97412,saint-joseph
+Cadres*,"22,9","21,2","23,6",97412,saint-joseph
+Professions intermédiaires,"15,4","14,4","16,2",97412,saint-joseph
+Employés,"11,3","11,2","11,3",97412,saint-joseph
+Ouvriers,"11,6","10,4","11,8",97412,saint-joseph
+Ensemble,"14,7","13,9","15,2",97413,saint-leu
+Cadres*,"27,1","24,1","28,8",97413,saint-leu
+Professions intermédiaires,"16,2","15,6","16,7",97413,saint-leu
+Employés,"11,8","11,6","12,1",97413,saint-leu
+Ouvriers,"12,2","10,9","12,3",97413,saint-leu
+Ensemble,"12,6","12,2","12,9",97414,saint-louis
+Cadres*,"22,8","22,0","23,2",97414,saint-louis
+Professions intermédiaires,"14,9","14,1","15,5",97414,saint-louis
+Employés,"11,3","11,2","11,4",97414,saint-louis
+Ouvriers,"11,7","10,1","11,9",97414,saint-louis
+Ensemble,"15,4","14,6","15,9",97415,saint-paul
+Cadres*,"29,5","25,7","31,8",97415,saint-paul
+Professions intermédiaires,"16,3","15,8","16,9",97415,saint-paul
+Employés,"12,0","11,9","12,2",97415,saint-paul
+Ouvriers,"12,3","10,6","12,4",97415,saint-paul
+Ensemble,"13,7","13,5","13,9",97416,saint-pierre
+Cadres*,"25,4","23,4","26,8",97416,saint-pierre
+Professions intermédiaires,"15,8","15,4","16,1",97416,saint-pierre
+Employés,"11,6","11,5","11,6",97416,saint-pierre
+Ouvriers,"11,4","10,1","11,6",97416,saint-pierre
+Ensemble,"15,0","14,4","15,4",97418,sainte-marie
+Cadres*,"27,8","24,4","29,8",97418,sainte-marie
+Professions intermédiaires,"16,6","16,2","17,0",97418,sainte-marie
+Employés,"12,3","12,2","12,4",97418,sainte-marie
+Ouvriers,"11,6","10,1","11,8",97418,sainte-marie
+Ensemble,"14,0","13,7","14,3",97420,sainte-suzanne
+Cadres*,"25,4","23,2","26,8",97420,sainte-suzanne
+Professions intermédiaires,"16,5","16,2","16,8",97420,sainte-suzanne
+Employés,"12,0","11,8","12,4",97420,sainte-suzanne
+Ouvriers,"12,0","10,3","12,2",97420,sainte-suzanne
+Ensemble,"13,2","12,9","13,4",97422,le-tampon
+Cadres*,"23,8","22,7","24,5",97422,le-tampon
+Professions intermédiaires,"15,3","15,0","15,6",97422,le-tampon
+Employés,"11,4","11,2","11,7",97422,le-tampon
+Ouvriers,"11,6","10,4","11,8",97422,le-tampon
